@@ -1,0 +1,1188 @@
+patient_id,encounter_id,encounter_date,patient_sex,patient_age,smoker_status,condition,condition_medication
+1,220,1,2067-05-03,female,55,past,HYPERTENSION,nitrate; beta blocker; calcium channel blocker; ACE inhibitor; diuretic
+2,220,1,2067-05-03,female,55,past,CAD,statin; thienopyridine; aspirin
+3,220,2,2068-12-05,female,37,past,HYPERTENSION,nitrate; beta blocker; calcium channel blocker; ACE inhibitor; diuretic
+4,220,2,2068-12-05,female,37,past,CAD,statin; thienopyridine; aspirin
+5,220,3,2070-12-01,NA,37,past,HYPERTENSION,nitrate; beta blocker; calcium channel blocker; ACE inhibitor; diuretic
+6,220,3,2070-12-01,NA,37,past,CAD,statin; aspirin
+7,220,4,2072-07-27,female,37,past,HYPERTENSION,nitrate; beta blocker; calcium channel blocker; ACE inhibitor; diuretic
+8,220,4,2072-07-27,female,37,past,CAD,statin; aspirin
+9,220,5,2075-01-31,female,37,past,HYPERTENSION,nitrate; beta blocker; calcium channel blocker; ACE inhibitor; diuretic
+10,220,5,2075-01-31,female,37,past,CAD,statin; aspirin
+11,221,1,2088-07-03,male,64,never,HYPERTENSION,nitrate; beta blocker
+12,221,1,2088-07-03,male,64,never,CAD,statin; aspirin
+13,221,2,2089-10-07,male,NA,unknown,HYPERTENSION,ARB; beta blocker; diuretic
+14,221,2,2089-10-07,male,NA,unknown,CAD,statin
+15,221,3,2091-11-15,male,NA,unknown,HYPERTENSION,nitrate
+16,221,4,2092-03-15,male,67,NA,HYPERTENSION,nitrate
+17,221,4,2092-03-15,male,67,NA,CAD,aspirin
+18,221,5,2093-07-04,male,68,never,HYPERTENSION,ARB; beta blocker; calcium channel blocker
+19,221,5,2093-07-04,male,68,never,CAD,statin; thienopyridine; aspirin
+20,222,1,2094-12-09,male,72,unknown,DIABETES,metformin
+21,222,1,2094-12-09,male,72,unknown,CAD,aspirin
+22,222,2,2095-03-27,male,72,unknown,HYPERTENSION,beta blocker
+23,222,2,2095-03-27,male,72,unknown,DIABETES,metformin
+24,222,3,2095-10-23,male,73,unknown,DIABETES,sulfonylureas; metformin
+25,222,4,2097-06-13,male,NA,unknown,DIABETES,metformin; insulin
+26,222,4,2097-06-13,male,NA,unknown,HYPERTENSION,beta blocker; ACE inhibitor
+27,222,4,2097-06-13,male,NA,unknown,CAD,statin; thienopyridine
+28,222,5,2098-07-20,male,NA,unknown,DIABETES,metformin; insulin
+29,222,5,2098-07-20,male,NA,unknown,HYPERTENSION,beta blocker; ACE inhibitor
+30,222,5,2098-07-20,male,NA,unknown,CAD,statin; aspirin
+31,223,1,2079-03-23,female,49,unknown,HYPERTENSION,calcium channel blocker
+32,223,2,2085-09-13,female,NA,unknown,DIABETES,metformin
+33,223,2,2085-09-13,female,NA,unknown,HYPERTENSION,ARB; beta blocker; calcium channel blocker; diuretic
+34,223,2,2085-09-13,female,NA,unknown,CAD,statin; thienopyridine
+35,223,3,2086-03-02,NA,56,never,DIABETES,metformin
+36,223,3,2086-03-02,NA,56,never,HYPERTENSION,ARB; beta blocker; calcium channel blocker; diuretic
+37,223,3,2086-03-02,NA,56,never,CAD,statin; aspirin
+38,223,4,2087-03-22,female,NA,unknown,DIABETES,metformin
+39,223,4,2087-03-22,female,NA,unknown,HYPERTENSION,ARB; beta blocker; calcium channel blocker; diuretic
+40,223,4,2087-03-22,female,NA,unknown,CAD,statin; aspirin
+41,224,1,2083-01-12,male,58,current,HYPERTENSION,beta blocker
+42,224,1,2083-01-12,male,58,current,CAD,statin; thienopyridine; aspirin
+43,224,2,2083-10-18,male,60's,current,HYPERLIPIDEMIA,fibrate
+44,224,2,2083-10-18,male,60's,current,HYPERTENSION,nitrate; beta blocker
+45,224,2,2083-10-18,male,60's,current,CAD,statin; thienopyridine; aspirin
+46,224,3,2085-11-05,male,60's,current,HYPERLIPIDEMIA,fibrate
+47,224,3,2085-11-05,male,60's,current,HYPERTENSION,nitrate; beta blocker; diuretic
+48,224,3,2085-11-05,male,60's,current,CAD,statin; thienopyridine; aspirin
+49,224,4,2086-11-04,male,60's,current,HYPERLIPIDEMIA,fibrate
+50,224,4,2086-11-04,male,60's,current,HYPERTENSION,nitrate; beta blocker; diuretic
+51,224,4,2086-11-04,male,60's,current,CAD,statin; thienopyridine; aspirin
+52,225,1,2093-07-05,male,69,past,DIABETES,sulfonylureas
+53,225,1,2093-07-05,male,69,past,HYPERTENSION,nitrate; beta blocker; calcium channel blocker
+54,225,1,2093-07-05,male,69,past,CAD,statin; thienopyridine; aspirin
+55,225,2,2094-05-20,male,69,past,DIABETES,sulfonylureas; insulin
+56,225,2,2094-05-20,male,69,past,HYPERTENSION,nitrate; beta blocker; calcium channel blocker
+57,225,2,2094-05-20,male,69,past,CAD,statin; thienopyridine; aspirin
+58,225,3,2094-12-16,male,70,past,HYPERLIPIDEMIA,fibrate
+59,225,3,2094-12-16,male,70,past,HYPERTENSION,nitrate; beta blocker; calcium channel blocker
+60,225,3,2094-12-16,male,70,past,CAD,statin; thienopyridine; aspirin
+61,225,4,2095-12-04,male,71,past,HYPERLIPIDEMIA,fibrate
+62,225,4,2095-12-04,male,71,past,HYPERTENSION,nitrate; beta blocker; calcium channel blocker
+63,225,4,2095-12-04,male,71,past,CAD,statin; thienopyridine; aspirin
+64,226,1,2136-12-05,female,60,past,DIABETES,metformin; insulin
+65,226,1,2136-12-05,female,60,past,HYPERTENSION,nitrate; ARB; beta blocker; calcium channel blocker; diuretic
+66,226,1,2136-12-05,female,60,past,CAD,statin; aspirin
+67,226,2,2137-03-20,female,60,past,DIABETES,metformin; insulin
+68,226,2,2137-03-20,female,60,past,HYPERTENSION,ARB; beta blocker; calcium channel blocker; diuretic
+69,226,2,2137-03-20,female,60,past,CAD,statin; aspirin
+70,226,3,2137-06-01,female,62,unknown,HYPERTENSION,beta blocker; calcium channel blocker
+71,226,3,2137-06-01,female,62,unknown,CAD,statin; aspirin
+72,226,4,2137-12-17,female,60,past,DIABETES,insulin
+73,226,4,2137-12-17,female,60,past,HYPERTENSION,beta blocker; calcium channel blocker
+74,226,4,2137-12-17,female,60,past,CAD,statin; aspirin
+75,226,5,2138-04-08,female,63,unknown,DIABETES,insulin
+76,226,5,2138-04-08,female,63,unknown,HYPERTENSION,ARB; beta blocker; calcium channel blocker
+77,226,5,2138-04-08,female,63,unknown,CAD,statin; aspirin
+78,227,1,2161-08-09,male,71,never,DIABETES,insulin
+79,227,1,2161-08-09,male,71,never,HYPERTENSION,beta blocker
+80,227,1,2161-08-09,male,71,never,CAD,statin; aspirin
+81,227,2,2162-01-22,NA,NA,unknown,DIABETES,insulin
+82,227,2,2162-01-22,NA,NA,unknown,HYPERTENSION,nitrate; beta blocker
+83,227,2,2162-01-22,NA,NA,unknown,CAD,statin; aspirin
+84,227,3,2163-02-25,male,NA,unknown,HYPERLIPIDEMIA,ezetimibe
+85,227,3,2163-02-25,male,NA,unknown,HYPERTENSION,beta blocker
+86,227,3,2163-02-25,male,NA,unknown,CAD,statin; aspirin
+87,227,4,2164-03-10,male,NA,unknown,HYPERLIPIDEMIA,niacin; ezetimibe
+88,227,4,2164-03-10,male,NA,unknown,DIABETES,insulin
+89,227,4,2164-03-10,male,NA,unknown,HYPERTENSION,nitrate; beta blocker
+90,227,4,2164-03-10,male,NA,unknown,CAD,statin; aspirin
+91,227,5,2164-08-24,male,74,past,HYPERLIPIDEMIA,niacin; ezetimibe
+92,227,5,2164-08-24,male,74,past,DIABETES,insulin
+93,227,5,2164-08-24,male,74,past,HYPERTENSION,ARB; beta blocker
+94,227,5,2164-08-24,male,74,past,CAD,statin; aspirin
+95,228,1,2081-05-01,female,NA,unknown,HYPERTENSION,beta blocker; ACE inhibitor
+96,228,2,2083-08-05,female,NA,unknown,HYPERTENSION,nitrate; calcium channel blocker
+97,228,3,2084-08-23,female,NA,unknown,HYPERTENSION,nitrate; calcium channel blocker
+98,228,4,2085-11-01,female,NA,unknown,HYPERTENSION,nitrate
+99,228,4,2085-11-01,female,NA,unknown,CAD,statin
+100,228,5,2086-11-07,female,NA,unknown,HYPERTENSION,nitrate; ARB; beta blocker; calcium channel blocker
+101,228,5,2086-11-07,female,NA,unknown,CAD,statin; aspirin
+102,229,1,2079-05-08,male,NA,unknown,HYPERTENSION,nitrate; beta blocker; ACE inhibitor
+103,229,1,2079-05-08,male,NA,unknown,CAD,statin; thienopyridine; aspirin
+104,229,2,2081-04-13,male,61,past,HYPERTENSION,nitrate; beta blocker; ACE inhibitor
+105,229,2,2081-04-13,male,61,past,CAD,statin; thienopyridine; aspirin
+106,229,3,2081-12-03,male,61,unknown,HYPERTENSION,nitrate; ARB; ACE inhibitor
+107,229,3,2081-12-03,male,61,unknown,CAD,statin; aspirin
+108,240,1,2095-03-31,male,NA,unknown,HYPERTENSION,nitrate; beta blocker; calcium channel blocker
+109,240,1,2095-03-31,male,NA,unknown,CAD,statin
+110,240,2,2095-12-03,male,NA,past,HYPERTENSION,nitrate; beta blocker; ACE inhibitor
+111,240,2,2095-12-03,male,NA,past,CAD,statin; thienopyridine
+112,240,3,2096-08-09,male,77,past,HYPERTENSION,nitrate; beta blocker; ACE inhibitor
+113,240,3,2096-08-09,male,77,past,CAD,statin; thienopyridine; aspirin
+114,240,4,2097-01-12,male,77,past,HYPERTENSION,nitrate; beta blocker; calcium channel blocker; ACE inhibitor
+115,240,4,2097-01-12,male,77,past,CAD,statin; thienopyridine; aspirin
+116,241,1,2074-07-05,female,62,NA,DIABETES,insulin
+117,241,1,2074-07-05,female,62,NA,HYPERTENSION,nitrate; beta blocker; calcium channel blocker; ACE inhibitor
+118,241,1,2074-07-05,female,62,NA,CAD,statin; aspirin
+119,241,2,2074-12-05,female,NA,unknown,DIABETES,insulin
+120,241,2,2074-12-05,female,NA,unknown,HYPERTENSION,nitrate; beta blocker; calcium channel blocker; ACE inhibitor
+121,241,2,2074-12-05,female,NA,unknown,CAD,statin; aspirin
+122,241,3,2075-10-05,female,65,unknown,HYPERTENSION,nitrate
+123,241,3,2075-10-05,female,65,unknown,CAD,aspirin
+124,241,4,2076-12-11,female,NA,unknown,DIABETES,insulin
+125,241,4,2076-12-11,female,NA,unknown,HYPERTENSION,nitrate; beta blocker; calcium channel blocker; ACE inhibitor
+126,241,4,2076-12-11,female,NA,unknown,CAD,statin
+127,242,1,2070-10-28,male,67,current,HYPERTENSION,beta blocker; calcium channel blocker; ACE inhibitor; diuretic
+128,242,1,2070-10-28,male,67,current,CAD,statin; aspirin
+129,242,2,2072-01-10,male,67,NA,HYPERTENSION,beta blocker
+130,242,2,2072-01-10,male,67,NA,CAD,aspirin
+131,242,3,2073-04-03,NA,NA,unknown,DIABETES,metformin
+132,242,4,2074-04-02,male,70,current,DIABETES,sulfonylureas; metformin
+133,242,4,2074-04-02,male,70,current,HYPERTENSION,beta blocker; calcium channel blocker; ACE inhibitor
+134,242,4,2074-04-02,male,70,current,CAD,aspirin
+135,242,5,2074-11-12,male,71,current,CAD,aspirin
+136,243,1,2076-08-10,male,NA,unknown,HYPERTENSION,beta blocker; ACE inhibitor; diuretic
+137,243,1,2076-08-10,male,NA,unknown,CAD,statin; thienopyridine
+138,243,2,2078-05-10,male,69,unknown,HYPERTENSION,beta blocker; ACE inhibitor
+139,243,3,2080-06-14,male,71,unknown,HYPERTENSION,beta blocker; ACE inhibitor
+140,243,4,2082-08-01,male,NA,unknown,HYPERTENSION,nitrate; beta blocker; ACE inhibitor
+141,243,4,2082-08-01,male,NA,unknown,CAD,statin; thienopyridine
+142,244,1,2089-01-27,female,56,never,HYPERTENSION,nitrate; beta blocker; calcium channel blocker
+143,244,1,2089-01-27,female,56,never,CAD,aspirin
+144,244,2,2091-12-12,female,59,never,HYPERTENSION,nitrate; beta blocker; calcium channel blocker
+145,244,2,2091-12-12,female,59,never,CAD,aspirin
+146,244,3,2092-02-13,female,NA,unknown,HYPERTENSION,nitrate; beta blocker; calcium channel blocker
+147,244,3,2092-02-13,female,NA,unknown,CAD,statin; aspirin
+148,244,4,2093-01-28,female,60,unknown,DIABETES,sulfonylureas
+149,244,4,2093-01-28,female,60,unknown,HYPERTENSION,nitrate; beta blocker; ACE inhibitor
+150,244,4,2093-01-28,female,60,unknown,CAD,statin; aspirin
+151,246,2,2101-04-28,male,40,NA,DIABETES,metformin
+152,246,2,2101-04-28,male,40,NA,HYPERTENSION,beta blocker
+153,246,2,2101-04-28,male,40,NA,CAD,statin
+154,246,4,2104-03-15,male,43,current,DIABETES,metformin
+155,246,4,2104-03-15,male,43,current,HYPERTENSION,beta blocker
+156,246,4,2104-03-15,male,43,current,CAD,statin
+157,247,1,2064-03-26,male,81,past,DIABETES,sulfonylureas; insulin
+158,247,1,2064-03-26,male,81,past,HYPERTENSION,beta blocker; ACE inhibitor
+159,247,1,2064-03-26,male,81,past,CAD,statin; aspirin
+160,247,2,2064-05-25,male,81,unknown,DIABETES,sulfonylureas
+161,247,2,2064-05-25,male,81,unknown,HYPERTENSION,beta blocker; ACE inhibitor
+162,247,2,2064-05-25,male,81,unknown,CAD,statin; thienopyridine; aspirin
+163,247,3,2064-08-16,male,82,past,HYPERTENSION,beta blocker; ACE inhibitor
+164,247,3,2064-08-16,male,82,past,CAD,statin; thienopyridine; aspirin
+165,247,4,2064-09-10,male,82,unknown,HYPERTENSION,beta blocker; ACE inhibitor
+166,247,4,2064-09-10,male,82,unknown,CAD,statin; thienopyridine; aspirin
+167,248,1,2097-04-18,male,76,past,DIABETES,sulfonylureas
+168,248,1,2097-04-18,male,76,past,CAD,statin
+169,248,2,2097-08-28,male,77,past,DIABETES,sulfonylureas
+170,248,2,2097-08-28,male,77,past,CAD,statin
+171,248,3,2097-11-10,male,77,unknown,DIABETES,sulfonylureas
+172,248,3,2097-11-10,male,77,unknown,CAD,statin
+173,248,4,2098-02-22,male,77,past,DIABETES,sulfonylureas
+174,248,4,2098-02-22,male,77,past,HYPERTENSION,beta blocker
+175,248,4,2098-02-22,male,77,past,CAD,statin; aspirin
+176,249,1,2071-11-20,male,77,unknown,HYPERTENSION,beta blocker
+177,249,1,2071-11-20,male,77,unknown,CAD,statin; aspirin
+178,249,2,2073-04-02,male,NA,never,DIABETES,metformin
+179,249,2,2073-04-02,male,NA,never,HYPERTENSION,beta blocker
+180,249,2,2073-04-02,male,NA,never,CAD,statin; aspirin
+181,249,3,2075-07-07,male,NA,never,DIABETES,metformin
+182,249,3,2075-07-07,male,NA,never,HYPERTENSION,beta blocker
+183,249,3,2075-07-07,male,NA,never,CAD,statin; aspirin
+184,249,4,2075-12-14,male,81,never,DIABETES,metformin
+185,249,4,2075-12-14,male,81,never,HYPERTENSION,beta blocker
+186,249,4,2075-12-14,male,81,never,CAD,statin; aspirin
+187,250,1,2078-12-14,female,81,never,DIABETES,sulfonylureas; thiazolidinedione
+188,250,1,2078-12-14,female,81,never,HYPERTENSION,beta blocker; ACE inhibitor
+189,250,1,2078-12-14,female,81,never,CAD,statin; aspirin
+190,250,2,2079-11-15,female,NA,unknown,DIABETES,sulfonylureas; thiazolidinedione
+191,250,2,2079-11-15,female,NA,unknown,HYPERTENSION,ARB; beta blocker
+192,250,2,2079-11-15,female,NA,unknown,CAD,statin; aspirin
+193,250,3,2081-02-19,female,NA,unknown,DIABETES,sulfonylureas; thiazolidinedione
+194,250,3,2081-02-19,female,NA,unknown,HYPERTENSION,ARB; beta blocker
+195,250,3,2081-02-19,female,NA,unknown,CAD,statin; aspirin
+196,250,4,2082-01-22,female,84,never,DIABETES,sulfonylureas; thiazolidinedione
+197,250,4,2082-01-22,female,84,never,HYPERTENSION,ARB; beta blocker; calcium channel blocker
+198,250,4,2082-01-22,female,84,never,CAD,statin; aspirin
+199,251,1,2083-08-24,male,72,never,HYPERTENSION,beta blocker; ACE inhibitor
+200,251,1,2083-08-24,male,72,never,CAD,statin
+201,251,2,2084-01-07,male,72,never,HYPERTENSION,beta blocker; ACE inhibitor
+202,251,2,2084-01-07,male,72,never,CAD,statin
+203,251,3,2084-03-17,male,73,never,HYPERTENSION,beta blocker
+204,251,3,2084-03-17,male,73,never,CAD,statin
+205,251,4,2084-05-26,male,73,never,HYPERTENSION,beta blocker
+206,251,4,2084-05-26,male,73,never,CAD,statin
+207,252,1,2062-11-29,female,NA,unknown,DIABETES,insulin
+208,252,1,2062-11-29,female,NA,unknown,HYPERTENSION,nitrate; beta blocker
+209,252,1,2062-11-29,female,NA,unknown,CAD,statin; aspirin
+210,252,3,2070-10-01,female,NA,unknown,DIABETES,thiazolidinedione; insulin
+211,252,3,2070-10-01,female,NA,unknown,HYPERTENSION,nitrate; ARB; beta blocker
+212,252,3,2070-10-01,female,NA,unknown,CAD,statin; aspirin
+213,252,4,2071-07-20,female,65,never,DIABETES,insulin
+214,252,4,2071-07-20,female,65,never,HYPERTENSION,ARB
+215,252,4,2071-07-20,female,65,never,CAD,aspirin
+216,252,5,2072-07-06,female,NA,unknown,DIABETES,insulin
+217,252,5,2072-07-06,female,NA,unknown,HYPERTENSION,beta blocker; ACE inhibitor
+218,252,5,2072-07-06,female,NA,unknown,CAD,statin; aspirin
+219,253,1,2069-09-17,male,NA,unknown,HYPERTENSION,nitrate; beta blocker; ACE inhibitor
+220,253,1,2069-09-17,male,NA,unknown,DIABETES,sulfonylureas; metformin
+221,253,2,2071-05-18,male,NA,unknown,DIABETES,sulfonylureas; metformin
+222,253,2,2071-05-18,male,NA,unknown,HYPERTENSION,beta blocker; ACE inhibitor
+223,253,2,2071-05-18,male,NA,unknown,CAD,thienopyridine; aspirin
+224,253,3,2073-12-14,NA,NA,unknown,DIABETES,sulfonylureas; thiazolidinedione; metformin
+225,253,3,2073-12-14,NA,NA,unknown,HYPERTENSION,beta blocker; ACE inhibitor
+226,253,3,2073-12-14,NA,NA,unknown,CAD,thienopyridine; aspirin
+227,254,1,2079-07-28,male,60,never,HYPERTENSION,calcium channel blocker
+228,254,1,2079-07-28,male,60,never,DIABETES,metformin; insulin
+229,254,2,2081-10-02,male,69,unknown,DIABETES,metformin; insulin
+230,254,2,2081-10-02,male,69,unknown,HYPERTENSION,calcium channel blocker; ACE inhibitor
+231,254,2,2081-10-02,male,69,unknown,CAD,statin
+232,254,3,2082-10-01,male,70,unknown,CAD,aspirin
+233,254,5,2088-11-29,male,76,never,DIABETES,insulin
+234,254,5,2088-11-29,male,76,never,HYPERTENSION,beta blocker
+235,254,5,2088-11-29,male,76,never,CAD,statin; aspirin
+236,255,1,2063-11-28,female,51,past,DIABETES,metformin; insulin
+237,255,1,2063-11-28,female,51,past,HYPERTENSION,beta blocker; ACE inhibitor; diuretic
+238,255,1,2063-11-28,female,51,past,CAD,statin; aspirin
+239,255,2,2065-06-27,NA,51,unknown,DIABETES,metformin; insulin
+240,255,2,2065-06-27,NA,51,unknown,HYPERTENSION,beta blocker; ACE inhibitor; diuretic
+241,255,2,2065-06-27,NA,51,unknown,CAD,statin; thienopyridine; aspirin
+242,255,3,2066-09-16,female,51,unknown,DIABETES,metformin; insulin
+243,255,3,2066-09-16,female,51,unknown,HYPERTENSION,beta blocker; ACE inhibitor; diuretic
+244,255,3,2066-09-16,female,51,unknown,CAD,statin; thienopyridine; aspirin
+245,256,1,2150-02-06,female,74,past,HYPERTENSION,beta blocker; diuretic
+246,256,1,2150-02-06,female,74,past,CAD,statin; aspirin
+247,256,2,2150-04-20,female,74,never,HYPERTENSION,nitrate; beta blocker; calcium channel blocker; diuretic
+248,256,2,2150-04-20,female,74,never,CAD,statin; aspirin
+249,256,3,2151-08-30,NA,76,unknown,DIABETES,metformin
+250,256,3,2151-08-30,NA,76,unknown,HYPERTENSION,nitrate; beta blocker; calcium channel blocker; diuretic
+251,256,3,2151-08-30,NA,76,unknown,CAD,statin; aspirin
+252,256,4,2152-08-26,female,NA,unknown,DIABETES,metformin
+253,256,4,2152-08-26,female,NA,unknown,HYPERTENSION,nitrate; ARB; beta blocker; calcium channel blocker
+254,256,4,2152-08-26,female,NA,unknown,CAD,statin; aspirin
+255,256,5,2154-07-21,female,NA,unknown,HYPERTENSION,ARB; beta blocker; calcium channel blocker
+256,256,5,2154-07-21,female,NA,unknown,CAD,statin
+257,257,2,2097-03-31,female,60,past,DIABETES,metformin
+258,257,2,2097-03-31,female,60,past,HYPERTENSION,beta blocker; calcium channel blocker; ACE inhibitor; diuretic
+259,257,2,2097-03-31,female,60,past,CAD,statin; aspirin
+260,257,3,2097-05-30,female,60,unknown,HYPERTENSION,beta blocker; calcium channel blocker
+261,257,3,2097-05-30,female,60,unknown,CAD,statin; aspirin
+262,257,4,2098-01-26,female,61,unknown,DIABETES,metformin
+263,257,4,2098-01-26,female,61,unknown,HYPERTENSION,beta blocker; calcium channel blocker; ACE inhibitor; diuretic
+264,257,4,2098-01-26,female,61,unknown,CAD,statin; aspirin
+265,258,1,2067-08-08,male,80,never,DIABETES,sulfonylureas
+266,258,1,2067-08-08,male,80,never,HYPERTENSION,ARB; calcium channel blocker; ACE inhibitor
+267,258,1,2067-08-08,male,80,never,CAD,statin; thienopyridine; aspirin
+268,258,2,2067-10-03,male,80,never,DIABETES,sulfonylureas; thiazolidinedione
+269,258,2,2067-10-03,male,80,never,HYPERTENSION,ARB; beta blocker; calcium channel blocker; diuretic
+270,258,2,2067-10-03,male,80,never,CAD,statin
+271,258,5,2070-01-20,male,82,unknown,DIABETES,sulfonylureas; thiazolidinedione
+272,258,5,2070-01-20,male,82,unknown,HYPERTENSION,beta blocker; calcium channel blocker
+273,258,5,2070-01-20,male,82,unknown,CAD,statin
+274,259,2,2094-12-24,male,77,unknown,DIABETES,insulin
+275,259,2,2094-12-24,male,77,unknown,HYPERTENSION,beta blocker
+276,259,2,2094-12-24,male,77,unknown,CAD,statin
+277,270,1,2097-01-27,male,65,never,CAD,aspirin
+278,270,2,2097-03-25,NA,65,never,HYPERTENSION,beta blocker; calcium channel blocker
+279,270,2,2097-03-25,NA,65,never,DIABETES,insulin
+280,270,4,2097-12-28,male,66,never,DIABETES,insulin
+281,270,4,2097-12-28,male,66,never,HYPERTENSION,beta blocker
+282,270,4,2097-12-28,male,66,never,CAD,aspirin
+283,271,1,2100-05-19,male,69,past,DIABETES,thiazolidinedione; metformin
+284,271,1,2100-05-19,male,69,past,HYPERTENSION,beta blocker
+285,271,1,2100-05-19,male,69,past,CAD,statin; thienopyridine; aspirin
+286,271,3,2105-08-11,male,74,past,DIABETES,sulfonylureas
+287,271,3,2105-08-11,male,74,past,HYPERTENSION,ARB; beta blocker
+288,271,3,2105-08-11,male,74,past,CAD,statin; aspirin
+289,271,4,2105-08-27,male,74,unknown,HYPERTENSION,beta blocker
+290,271,4,2105-08-27,male,74,unknown,CAD,statin; aspirin
+291,272,1,2093-01-13,male,NA,unknown,DIABETES,sulfonylureas; metformin
+292,272,1,2093-01-13,male,NA,unknown,HYPERTENSION,beta blocker; ACE inhibitor; diuretic
+293,272,1,2093-01-13,male,NA,unknown,CAD,aspirin
+294,272,2,2093-06-30,male,NA,unknown,DIABETES,sulfonylureas; metformin
+295,272,2,2093-06-30,male,NA,unknown,HYPERTENSION,beta blocker; calcium channel blocker; ACE inhibitor; diuretic
+296,272,2,2093-06-30,male,NA,unknown,CAD,statin; aspirin
+297,272,3,2094-05-18,male,NA,unknown,DIABETES,sulfonylureas; metformin
+298,272,3,2094-05-18,male,NA,unknown,HYPERTENSION,beta blocker; calcium channel blocker; ACE inhibitor; diuretic
+299,272,3,2094-05-18,male,NA,unknown,CAD,statin; aspirin
+300,272,4,2094-12-10,male,73,past,DIABETES,sulfonylureas; metformin
+301,272,4,2094-12-10,male,73,past,HYPERTENSION,nitrate; beta blocker; calcium channel blocker; ACE inhibitor; diuretic
+302,272,4,2094-12-10,male,73,past,CAD,statin; aspirin
+303,273,1,2075-10-17,female,NA,unknown,DIABETES,insulin
+304,273,1,2075-10-17,female,NA,unknown,HYPERTENSION,beta blocker; ACE inhibitor
+305,273,1,2075-10-17,female,NA,unknown,CAD,statin; aspirin
+306,273,2,2076-11-21,female,NA,unknown,DIABETES,insulin
+307,273,2,2076-11-21,female,NA,unknown,HYPERTENSION,beta blocker; ACE inhibitor
+308,273,2,2076-11-21,female,NA,unknown,CAD,statin; aspirin
+309,273,3,2077-01-29,female,NA,unknown,DIABETES,insulin
+310,273,3,2077-01-29,female,NA,unknown,HYPERTENSION,beta blocker; ACE inhibitor
+311,273,3,2077-01-29,female,NA,unknown,CAD,statin; aspirin
+312,273,4,2078-06-03,female,NA,unknown,DIABETES,insulin
+313,273,4,2078-06-03,female,NA,unknown,HYPERTENSION,beta blocker
+314,273,4,2078-06-03,female,NA,unknown,CAD,statin; aspirin
+315,273,5,2079-06-10,female,NA,unknown,DIABETES,insulin
+316,273,5,2079-06-10,female,NA,unknown,HYPERTENSION,beta blocker
+317,273,5,2079-06-10,female,NA,unknown,CAD,statin; aspirin
+318,274,1,2077-10-11,male,70,unknown,HYPERTENSION,nitrate; beta blocker
+319,274,1,2077-10-11,male,70,unknown,CAD,aspirin
+320,274,2,2078-04-20,male,71,unknown,DIABETES,sulfonylureas
+321,274,4,2079-09-14,male,72,past,DIABETES,insulin
+322,274,4,2079-09-14,male,72,past,HYPERTENSION,nitrate; ARB; beta blocker
+323,274,4,2079-09-14,male,72,past,CAD,statin; aspirin
+324,275,1,2089-04-04,NA,70,unknown,DIABETES,metformin; insulin
+325,275,4,2089-06-30,female,NA,past,DIABETES,metformin
+326,275,4,2089-06-30,female,NA,past,HYPERTENSION,beta blocker
+327,275,4,2089-06-30,female,NA,past,CAD,statin; aspirin
+328,276,1,2060-07-25,male,71,unknown,DIABETES,metformin
+329,276,1,2060-07-25,male,71,unknown,HYPERTENSION,nitrate; ARB; beta blocker
+330,276,1,2060-07-25,male,71,unknown,CAD,aspirin
+331,276,2,2060-07-28,male,NA,unknown,HYPERLIPIDEMIA,niacin
+332,276,2,2060-07-28,male,NA,unknown,DIABETES,metformin
+333,276,2,2060-07-28,male,NA,unknown,HYPERTENSION,nitrate; ARB; beta blocker; ACE inhibitor
+334,276,2,2060-07-28,male,NA,unknown,CAD,thienopyridine; aspirin
+335,276,3,2061-01-31,male,73,past,DIABETES,metformin
+336,276,3,2061-01-31,male,73,past,HYPERTENSION,ARB; beta blocker; ACE inhibitor
+337,276,3,2061-01-31,male,73,past,CAD,aspirin
+338,276,4,2063-01-17,male,NA,unknown,HYPERLIPIDEMIA,niacin
+339,276,4,2063-01-17,male,NA,unknown,DIABETES,metformin
+340,276,4,2063-01-17,male,NA,unknown,HYPERTENSION,ARB; beta blocker; ACE inhibitor; diuretic
+341,276,4,2063-01-17,male,NA,unknown,CAD,statin; thienopyridine; aspirin
+342,277,1,2078-01-30,male,67,past,DIABETES,insulin
+343,277,1,2078-01-30,male,67,past,CAD,aspirin
+344,277,3,2079-10-13,male,69,unknown,DIABETES,metformin
+345,277,3,2079-10-13,male,69,unknown,HYPERTENSION,beta blocker; ACE inhibitor
+346,277,3,2079-10-13,male,69,unknown,CAD,statin; aspirin
+347,277,4,2080-05-04,male,69,unknown,DIABETES,metformin
+348,277,4,2080-05-04,male,69,unknown,HYPERTENSION,beta blocker; ACE inhibitor
+349,277,4,2080-05-04,male,69,unknown,CAD,statin; aspirin
+350,277,5,2082-12-02,male,72,unknown,DIABETES,metformin
+351,277,5,2082-12-02,male,72,unknown,HYPERTENSION,beta blocker; ACE inhibitor
+352,277,5,2082-12-02,male,72,unknown,CAD,statin; aspirin
+353,278,1,2092-03-10,male,70,past,DIABETES,sulfonylureas
+354,278,1,2092-03-10,male,70,past,HYPERTENSION,nitrate; beta blocker
+355,278,1,2092-03-10,male,70,past,CAD,statin; thienopyridine; aspirin
+356,278,2,2095-07-13,male,73,past,DIABETES,sulfonylureas
+357,278,2,2095-07-13,male,73,past,HYPERTENSION,nitrate; beta blocker; ACE inhibitor
+358,278,2,2095-07-13,male,73,past,CAD,statin; aspirin
+359,278,3,2096-06-11,male,73,past,DIABETES,sulfonylureas
+360,278,3,2096-06-11,male,73,past,HYPERTENSION,nitrate; beta blocker; ACE inhibitor
+361,278,3,2096-06-11,male,73,past,CAD,statin; aspirin
+362,278,4,2096-12-09,male,75,past,DIABETES,sulfonylureas
+363,278,4,2096-12-09,male,75,past,HYPERTENSION,nitrate; beta blocker; ACE inhibitor
+364,278,4,2096-12-09,male,75,past,CAD,statin; aspirin
+365,278,5,2097-08-06,male,74,unknown,DIABETES,sulfonylureas; metformin
+366,278,5,2097-08-06,male,74,unknown,HYPERTENSION,nitrate; beta blocker; ACE inhibitor
+367,278,5,2097-08-06,male,74,unknown,CAD,statin; aspirin
+368,279,1,2092-03-11,female,14,NA,CAD,statin
+369,279,2,2092-11-16,female,76,NA,HYPERTENSION,nitrate; ARB; beta blocker; calcium channel blocker
+370,279,2,2092-11-16,female,76,NA,CAD,statin; aspirin
+371,279,3,2093-01-13,female,76,unknown,DIABETES,insulin
+372,279,3,2093-01-13,female,76,unknown,HYPERTENSION,nitrate; ARB; beta blocker; calcium channel blocker
+373,279,3,2093-01-13,female,76,unknown,CAD,statin; aspirin
+374,279,4,2094-01-25,NA,NA,unknown,HYPERTENSION,nitrate; ARB; beta blocker; calcium channel blocker
+375,279,4,2094-01-25,NA,NA,unknown,CAD,statin; aspirin
+376,279,5,2094-07-02,NA,NA,past,HYPERTENSION,nitrate; ARB; beta blocker; calcium channel blocker
+377,279,5,2094-07-02,NA,NA,past,CAD,statin; thienopyridine; aspirin
+378,280,1,2085-11-01,female,65,never,DIABETES,insulin
+379,280,1,2085-11-01,female,65,never,HYPERTENSION,beta blocker
+380,280,1,2085-11-01,female,65,never,CAD,statin; thienopyridine; aspirin
+381,280,2,2085-12-07,female,66,never,DIABETES,insulin
+382,280,2,2085-12-07,female,66,never,HYPERTENSION,nitrate; beta blocker
+383,280,2,2085-12-07,female,66,never,CAD,statin; thienopyridine; aspirin
+384,280,3,2086-04-18,female,66,unknown,DIABETES,insulin
+385,280,3,2086-04-18,female,66,unknown,HYPERTENSION,nitrate
+386,280,3,2086-04-18,female,66,unknown,CAD,statin; thienopyridine; aspirin
+387,280,4,2087-04-07,female,67,never,DIABETES,insulin
+388,280,4,2087-04-07,female,67,never,HYPERTENSION,nitrate; beta blocker
+389,280,4,2087-04-07,female,67,never,CAD,statin; thienopyridine; aspirin
+390,281,1,2157-08-27,male,80,past,DIABETES,thiazolidinedione; metformin; insulin
+391,281,1,2157-08-27,male,80,past,HYPERTENSION,nitrate; beta blocker; ACE inhibitor
+392,281,1,2157-08-27,male,80,past,CAD,statin; aspirin
+393,281,2,2159-05-12,male,82,past,HYPERLIPIDEMIA,fibrate
+394,281,2,2159-05-12,male,82,past,DIABETES,sulfonylureas; thiazolidinedione; metformin
+395,281,2,2159-05-12,male,82,past,HYPERTENSION,nitrate; beta blocker; calcium channel blocker; ACE inhibitor
+396,281,2,2159-05-12,male,82,past,CAD,statin; thienopyridine; aspirin
+397,281,3,2164-06-26,male,87,past,HYPERLIPIDEMIA,fibrate
+398,281,3,2164-06-26,male,87,past,DIABETES,sulfonylureas; insulin
+399,281,3,2164-06-26,male,87,past,HYPERTENSION,nitrate; beta blocker; ACE inhibitor; calcium channel blocker
+400,281,3,2164-06-26,male,87,past,CAD,statin; thienopyridine; aspirin
+401,282,1,2070-02-24,male,NA,past,DIABETES,insulin
+402,282,1,2070-02-24,male,NA,past,HYPERTENSION,nitrate; beta blocker; calcium channel blocker; ACE inhibitor
+403,282,1,2070-02-24,male,NA,past,CAD,statin; aspirin
+404,282,2,2070-06-06,male,NA,unknown,HYPERTENSION,nitrate; beta blocker; calcium channel blocker; ACE inhibitor
+405,282,2,2070-06-06,male,NA,unknown,CAD,statin; aspirin
+406,282,3,2071-02-13,male,NA,unknown,DIABETES,insulin
+407,282,3,2071-02-13,male,NA,unknown,HYPERTENSION,nitrate; beta blocker; calcium channel blocker
+408,282,3,2071-02-13,male,NA,unknown,CAD,statin; aspirin
+409,282,4,2071-07-30,male,NA,unknown,DIABETES,insulin
+410,282,4,2071-07-30,male,NA,unknown,HYPERTENSION,nitrate; beta blocker; calcium channel blocker; ACE inhibitor
+411,282,4,2071-07-30,male,NA,unknown,CAD,statin; aspirin
+412,283,1,2121-05-09,male,53,unknown,DIABETES,insulin
+413,283,1,2121-05-09,male,53,unknown,HYPERTENSION,beta blocker
+414,283,1,2121-05-09,male,53,unknown,CAD,aspirin
+415,283,2,2125-07-28,male,57,unknown,DIABETES,insulin
+416,283,2,2125-07-28,male,57,unknown,HYPERTENSION,beta blocker; ACE inhibitor
+417,283,2,2125-07-28,male,57,unknown,CAD,statin; aspirin
+418,283,3,2128-02-26,male,NA,never,DIABETES,insulin
+419,283,3,2128-02-26,male,NA,never,HYPERTENSION,beta blocker; ACE inhibitor
+420,283,3,2128-02-26,male,NA,never,CAD,statin; aspirin
+421,283,4,2129-02-19,male,NA,never,DIABETES,insulin
+422,283,4,2129-02-19,male,NA,never,HYPERTENSION,beta blocker; ACE inhibitor
+423,283,4,2129-02-19,male,NA,never,CAD,statin; aspirin
+424,284,1,2070-05-15,female,78,unknown,DIABETES,metformin
+425,284,1,2070-05-15,female,78,unknown,HYPERTENSION,beta blocker
+426,284,1,2070-05-15,female,78,unknown,CAD,aspirin
+427,284,2,2070-08-13,female,78,never,DIABETES,metformin; insulin
+428,284,2,2070-08-13,female,78,never,HYPERTENSION,beta blocker; ACE inhibitor
+429,284,2,2070-08-13,female,78,never,CAD,aspirin
+430,284,3,2071-02-19,female,79,unknown,DIABETES,metformin; insulin
+431,284,3,2071-02-19,female,79,unknown,HYPERTENSION,beta blocker; ACE inhibitor
+432,284,3,2071-02-19,female,79,unknown,CAD,aspirin
+433,284,4,2072-12-04,female,81,never,DIABETES,metformin
+434,284,4,2072-12-04,female,81,never,HYPERTENSION,beta blocker; ACE inhibitor
+435,284,4,2072-12-04,female,81,never,CAD,aspirin
+436,284,5,2073-07-04,female,81,never,HYPERTENSION,beta blocker
+437,284,5,2073-07-04,female,81,never,CAD,aspirin
+438,285,2,2095-12-24,male,66,past,DIABETES,metformin
+439,285,2,2095-12-24,male,66,past,HYPERTENSION,nitrate; ARB; beta blocker; calcium channel blocker; diuretic
+440,285,2,2095-12-24,male,66,past,CAD,statin
+441,285,5,2098-03-16,male,69,unknown,HYPERTENSION,beta blocker; calcium channel blocker
+442,285,5,2098-03-16,male,69,unknown,CAD,aspirin
+443,286,1,2076-11-11,female,NA,unknown,DIABETES,sulfonylureas
+444,286,1,2076-11-11,female,NA,unknown,HYPERTENSION,beta blocker; calcium channel blocker
+445,286,1,2076-11-11,female,NA,unknown,CAD,aspirin
+446,286,2,2078-06-15,female,77,unknown,HYPERTENSION,beta blocker; calcium channel blocker
+447,286,2,2078-06-15,female,77,unknown,CAD,aspirin
+448,286,3,2079-04-08,female,77,never,DIABETES,sulfonylureas
+449,286,3,2079-04-08,female,77,never,HYPERTENSION,beta blocker; calcium channel blocker; diuretic
+450,286,3,2079-04-08,female,77,never,CAD,aspirin
+451,286,4,01/18/82,female,80,never,DIABETES,sulfonylureas
+452,286,4,01/18/82,female,80,never,HYPERTENSION,beta blocker; calcium channel blocker
+453,286,4,01/18/82,female,80,never,CAD,aspirin
+454,287,1,2063-10-04,female,56,current,HYPERTENSION,nitrate
+455,287,1,2063-10-04,female,56,current,CAD,aspirin
+456,287,2,2064-02-16,female,72,past,HYPERTENSION,beta blocker
+457,287,2,2064-02-16,female,72,past,CAD,statin; aspirin
+458,287,3,2065-12-29,female,72,past,CAD,statin; aspirin
+459,288,2,2066-01-20,female,NA,unknown,DIABETES,insulin
+460,288,2,2066-01-20,female,NA,unknown,CAD,statin
+461,288,3,2066-03-03,female,70,unknown,DIABETES,insulin
+462,288,3,2066-03-03,female,70,unknown,HYPERTENSION,beta blocker
+463,288,3,2066-03-03,female,70,unknown,CAD,statin
+464,288,4,2067-01-12,female,71,unknown,HYPERTENSION,nitrate; beta blocker; calcium channel blocker
+465,288,4,2067-01-12,female,71,unknown,DIABETES,insulin
+466,289,1,2076-06-05,male,NA,unknown,DIABETES,sulfonylureas; metformin
+467,289,1,2076-06-05,male,NA,unknown,HYPERTENSION,ACE inhibitor
+468,289,1,2076-06-05,male,NA,unknown,CAD,statin
+469,289,2,2076-08-29,male,NA,unknown,HYPERTENSION,beta blocker; ACE inhibitor
+470,289,2,2076-08-29,male,NA,unknown,DIABETES,metformin
+471,289,3,2077-02-23,male,NA,never,DIABETES,sulfonylureas; metformin
+472,289,3,2077-02-23,male,NA,never,HYPERTENSION,beta blocker; ACE inhibitor
+473,289,3,2077-02-23,male,NA,never,CAD,statin; aspirin
+474,289,4,2077-05-25,male,NA,never,DIABETES,sulfonylureas; metformin
+475,289,4,2077-05-25,male,NA,never,HYPERTENSION,beta blocker; ACE inhibitor
+476,289,4,2077-05-25,male,NA,never,CAD,statin; aspirin
+477,289,5,2077-11-21,male,NA,never,DIABETES,sulfonylureas; metformin
+478,289,5,2077-11-21,male,NA,never,HYPERTENSION,beta blocker; ACE inhibitor
+479,289,5,2077-11-21,male,NA,never,CAD,statin; aspirin
+480,290,1,2097-10-20,male,NA,past,HYPERLIPIDEMIA,ezetimibe
+481,290,1,2097-10-20,male,NA,past,HYPERTENSION,beta blocker; ACE inhibitor
+482,290,1,2097-10-20,male,NA,past,CAD,statin; aspirin
+483,290,2,2097-11-06,male,80s,ever,HYPERLIPIDEMIA,ezetimibe
+484,290,2,2097-11-06,male,80s,ever,DIABETES,insulin
+485,290,2,2097-11-06,male,80s,ever,HYPERTENSION,beta blocker; ACE inhibitor
+486,290,2,2097-11-06,male,80s,ever,CAD,statin; aspirin
+487,290,3,2098-06-04,male,69,ever,HYPERLIPIDEMIA,ezetimibe
+488,290,3,2098-06-04,male,69,ever,DIABETES,metformin
+489,290,3,2098-06-04,male,69,ever,HYPERTENSION,beta blocker
+490,290,3,2098-06-04,male,69,ever,CAD,statin; aspirin
+491,290,4,2098-06-11,male,70,past,HYPERLIPIDEMIA,ezetimibe
+492,290,4,2098-06-11,male,70,past,DIABETES,metformin; insulin
+493,290,4,2098-06-11,male,70,past,HYPERTENSION,beta blocker; ACE inhibitor
+494,290,4,2098-06-11,male,70,past,CAD,statin; aspirin
+495,291,1,2095-01-16,male,73,past,DIABETES,sulfonylureas; insulin
+496,291,1,2095-01-16,male,73,past,HYPERTENSION,nitrate; ARB; beta blocker; calcium channel blocker
+497,291,1,2095-01-16,male,73,past,CAD,statin; aspirin
+498,291,2,2095-12-13,male,74,past,CAD,statin; thienopyridine; aspirin
+499,291,2,2095-12-13,male,74,past,HYPERTENSION,nitrate; ARB; beta blocker
+500,291,2,2095-12-13,male,74,past,DIABETES,sulfonylureas; insulin
+501,291,3,2096-09-03,male,74,past,DIABETES,insulin
+502,291,3,2096-09-03,male,74,past,HYPERTENSION,nitrate; ARB; beta blocker
+503,291,3,2096-09-03,male,74,past,CAD,statin; thienopyridine
+504,291,4,2097-01-17,male,75,unknown,DIABETES,insulin
+505,291,4,2097-01-17,male,75,unknown,HYPERTENSION,nitrate; beta blocker; calcium channel blocker; ACE inhibitor
+506,291,4,2097-01-17,male,75,unknown,CAD,statin; thienopyridine
+507,291,5,2098-03-20,male,76,NA,HYPERTENSION,beta blocker; calcium channel blocker
+508,291,5,2098-03-20,male,76,NA,CAD,statin; thienopyridine; aspirin
+509,292,1,2094-03-14,male,53,never,HYPERTENSION,beta blocker
+510,292,1,2094-03-14,male,53,never,CAD,statin; thienopyridine; aspirin
+511,292,2,2095-01-31,male,54,never,HYPERTENSION,nitrate
+512,292,3,2095-03-12,male,54,never,HYPERTENSION,beta blocker
+513,292,3,2095-03-12,male,54,never,CAD,statin; thienopyridine; aspirin
+514,292,4,2096-03-10,male,55,never,HYPERLIPIDEMIA,niacin
+515,292,4,2096-03-10,male,55,never,HYPERTENSION,beta blocker; ACE inhibitor
+516,292,4,2096-03-10,male,55,never,CAD,statin; thienopyridine; aspirin
+517,292,5,06/14/2097,male,NA,unknown,HYPERLIPIDEMIA,niacin
+518,292,5,06/14/2097,male,NA,unknown,HYPERTENSION,beta blocker; ACE inhibitor
+519,292,5,06/14/2097,male,NA,unknown,CAD,statin; thienopyridine; aspirin
+520,293,1,2076-12-15,female,70,current,HYPERTENSION,nitrate
+521,293,2,2077-03-03,female,71,unknown,HYPERTENSION,beta blocker; ACE inhibitor
+522,293,2,2077-03-03,female,71,unknown,CAD,statin; aspirin
+523,293,3,2077-07-30,female,71,current,DIABETES,sulfonylureas
+524,293,3,2077-07-30,female,71,current,HYPERTENSION,beta blocker; ACE inhibitor
+525,293,3,2077-07-30,female,71,current,CAD,statin; aspirin
+526,293,4,2078-10-05,female,72,current,DIABETES,sulfonylureas; metformin
+527,293,4,2078-10-05,female,72,current,HYPERTENSION,beta blocker; ACE inhibitor
+528,293,4,2078-10-05,female,72,current,CAD,statin; aspirin
+529,293,5,2082-04-29,female,76y2.3m,current,HYPERTENSION,ACE inhibitor
+530,294,1,2094-08-24,male,79,past,DIABETES,metformin
+531,294,1,2094-08-24,male,79,past,HYPERTENSION,beta blocker; calcium channel blocker; ACE inhibitor
+532,294,1,2094-08-24,male,79,past,CAD,statin; aspirin
+533,294,2,2094-12-02,male,79,past,HYPERTENSION,beta blocker; ACE inhibitor
+534,294,2,2094-12-02,male,79,past,CAD,statin; aspirin
+535,294,3,2095-02-04,male,79,unknown,DIABETES,metformin
+536,294,3,2095-02-04,male,79,unknown,HYPERTENSION,beta blocker; calcium channel blocker; ACE inhibitor
+537,294,3,2095-02-04,male,79,unknown,CAD,statin; aspirin
+538,294,4,2095-07-25,male,79,unknown,DIABETES,sulfonylureas
+539,294,4,2095-07-25,male,79,unknown,HYPERTENSION,beta blocker; calcium channel blocker
+540,294,4,2095-07-25,male,79,unknown,CAD,statin; aspirin
+541,295,1,2078-12-13,male,71,NA,HYPERLIPIDEMIA,ezetimibe
+542,295,1,2078-12-13,male,71,NA,DIABETES,sulfonylureas
+543,295,1,2078-12-13,male,71,NA,HYPERTENSION,beta blocker; ACE inhibitor
+544,295,1,2078-12-13,male,71,NA,CAD,statin; aspirin
+545,295,2,2080-05-21,male,73,unknown,HYPERLIPIDEMIA,ezetimibe
+546,295,2,2080-05-21,male,73,unknown,DIABETES,sulfonylureas
+547,295,2,2080-05-21,male,73,unknown,HYPERTENSION,beta blocker; ACE inhibitor
+548,295,2,2080-05-21,male,73,unknown,CAD,statin; aspirin
+549,295,3,2080-07-11,male,73,unknown,HYPERLIPIDEMIA,ezetimibe
+550,295,3,2080-07-11,male,73,unknown,DIABETES,sulfonylureas
+551,295,3,2080-07-11,male,73,unknown,HYPERTENSION,beta blocker; ACE inhibitor
+552,295,3,2080-07-11,male,73,unknown,CAD,statin; aspirin
+553,295,4,2081-03-08,male,74,unknown,DIABETES,sulfonylureas; insulin
+554,295,4,2081-03-08,male,74,unknown,HYPERTENSION,beta blocker; ACE inhibitor
+555,295,4,2081-03-08,male,74,unknown,CAD,statin; aspirin
+556,295,5,2081-03-21,male,74,past,DIABETES,insulin
+557,295,5,2081-03-21,male,74,past,HYPERTENSION,nitrate; beta blocker; ACE inhibitor
+558,295,5,2081-03-21,male,74,past,CAD,statin; aspirin
+559,296,1,2099-01-06,NA,56,unknown,DIABETES,insulin
+560,296,1,2099-01-06,NA,56,unknown,HYPERTENSION,beta blocker
+561,296,1,2099-01-06,NA,56,unknown,CAD,statin; aspirin
+562,296,2,2099-08-10,NA,NA,unknown,DIABETES,insulin
+563,296,2,2099-08-10,NA,NA,unknown,HYPERTENSION,beta blocker
+564,296,2,2099-08-10,NA,NA,unknown,CAD,statin; aspirin
+565,296,3,2100-02-17,female,57,unknown,DIABETES,insulin
+566,296,3,2100-02-17,female,57,unknown,HYPERTENSION,nitrate; beta blocker
+567,296,3,2100-02-17,female,57,unknown,CAD,statin; aspirin
+568,296,4,2100-07-07,female,NA,unknown,DIABETES,insulin
+569,296,4,2100-07-07,female,NA,unknown,HYPERTENSION,beta blocker
+570,296,4,2100-07-07,female,NA,unknown,CAD,statin; aspirin
+571,296,5,2102-12-21,female,60,past,DIABETES,insulin
+572,296,5,2102-12-21,female,60,past,HYPERTENSION,nitrate; beta blocker
+573,296,5,2102-12-21,female,60,past,CAD,statin; aspirin
+574,297,1,2092-12-27,male,75,unknown,HYPERTENSION,ACE inhibitor
+575,297,2,2093-03-07,male,75,unknown,HYPERTENSION,ACE inhibitor
+576,297,3,2093-12-12,male,NA,unknown,CAD,aspirin
+577,297,4,2094-06-12,male,77,unknown,HYPERLIPIDEMIA,niacin
+578,297,4,2094-06-12,male,77,unknown,HYPERTENSION,nitrate; beta blocker; ACE inhibitor
+579,297,4,2094-06-12,male,77,unknown,CAD,aspirin
+580,297,5,2095-09-30,male,78,unknown,HYPERTENSION,nitrate
+581,298,1,2080-12-12,male,84,unknown,HYPERTENSION,nitrate; beta blocker
+582,298,2,2081-07-17,NA,NA,unknown,HYPERTENSION,nitrate; beta blocker
+583,298,3,2082-02-03,male,85,never,HYPERTENSION,nitrate; beta blocker
+584,298,4,2083-01-12,male,86,never,HYPERLIPIDEMIA,fibrate
+585,298,4,2083-01-12,male,86,never,HYPERTENSION,nitrate; beta blocker
+586,298,5,2083-12-15,male,NA,unknown,HYPERLIPIDEMIA,fibrate
+587,298,5,2083-12-15,male,NA,unknown,HYPERTENSION,nitrate; beta blocker
+588,298,5,2083-12-15,male,NA,unknown,DIABETES,sulfonylureas
+589,299,2,2063-09-29,female,NA,unknown,HYPERLIPIDEMIA,fibrate
+590,299,2,2063-09-29,female,NA,unknown,DIABETES,thiazolidinedione; metformin
+591,299,2,2063-09-29,female,NA,unknown,HYPERTENSION,beta blocker; ACE inhibitor
+592,299,2,2063-09-29,female,NA,unknown,CAD,statin; aspirin
+593,299,3,2064-05-05,female,NA,unknown,HYPERLIPIDEMIA,fibrate
+594,299,3,2064-05-05,female,NA,unknown,DIABETES,thiazolidinedione; metformin
+595,299,3,2064-05-05,female,NA,unknown,HYPERTENSION,beta blocker; ACE inhibitor
+596,299,3,2064-05-05,female,NA,unknown,CAD,statin; aspirin
+597,299,4,2064-07-17,female,74,unknown,DIABETES,thiazolidinedione; metformin
+598,299,4,2064-07-17,female,74,unknown,HYPERTENSION,beta blocker; ACE inhibitor
+599,299,4,2064-07-17,female,74,unknown,CAD,statin; aspirin
+600,300,1,2087-09-18,male,NA,never,HYPERTENSION,ACE inhibitor; diuretic
+601,300,1,2087-09-18,male,NA,never,CAD,aspirin
+602,300,2,2089-12-01,NA,NA,never,HYPERTENSION,ACE inhibitor; diuretic
+603,300,2,2089-12-01,NA,NA,never,CAD,statin
+604,300,3,2091-08-24,male,58,past,HYPERTENSION,ACE inhibitor; diuretic
+605,300,3,2091-08-24,male,58,past,CAD,statin
+606,300,4,2092-08-16,male,59,never,HYPERTENSION,nitrate; beta blocker; ACE inhibitor
+607,300,4,2092-08-16,male,59,never,CAD,aspirin
+608,300,5,2093-07-10,male,60,past,HYPERTENSION,beta blocker; ACE inhibitor; diuretic
+609,300,5,2093-07-10,male,60,past,CAD,aspirin
+610,301,1,2074-10-01,male,39,never,HYPERTENSION,beta blocker; calcium channel blocker
+611,301,1,2074-10-01,male,39,never,CAD,statin
+612,301,2,2077-02-01,male,42,unknown,HYPERTENSION,ARB; beta blocker; calcium channel blocker
+613,301,2,2077-02-01,male,42,unknown,CAD,statin
+614,301,3,2079-05-14,male,44,never,HYPERTENSION,ARB; beta blocker; calcium channel blocker
+615,301,3,2079-05-14,male,44,never,CAD,statin
+616,301,4,2079-10-31,male,44,never,HYPERTENSION,ARB; beta blocker; calcium channel blocker
+617,301,4,2079-10-31,male,44,never,CAD,statin
+618,301,5,2082-08-21,male,47,never,HYPERTENSION,beta blocker; calcium channel blocker
+619,301,5,2082-08-21,male,47,never,CAD,statin; aspirin
+620,302,1,2082-07-04,female,NA,never,DIABETES,sulfonylureas
+621,302,1,2082-07-04,female,NA,never,HYPERTENSION,beta blocker
+622,302,1,2082-07-04,female,NA,never,CAD,statin; aspirin
+623,302,2,2083-04-03,female,NA,unknown,DIABETES,sulfonylureas; thiazolidinedione
+624,302,2,2083-04-03,female,NA,unknown,HYPERTENSION,beta blocker
+625,302,2,2083-04-03,female,NA,unknown,CAD,statin; aspirin
+626,302,4,2084-04-03,female,NA,unknown,DIABETES,sulfonylureas; thiazolidinedione; metformin
+627,302,4,2084-04-03,female,NA,unknown,HYPERTENSION,ARB; beta blocker; ACE inhibitor
+628,302,4,2084-04-03,female,NA,unknown,CAD,statin; aspirin
+629,303,1,2111-09-25,female,70,past,HYPERTENSION,beta blocker
+630,303,1,2111-09-25,female,70,past,DIABETES,insulin
+631,303,2,2113-03-08,female,72,unknown,HYPERTENSION,beta blocker; ACE inhibitor
+632,303,2,2113-03-08,female,72,unknown,CAD,thienopyridine
+633,303,3,2115-10-08,female,74,never,DIABETES,insulin
+634,303,3,2115-10-08,female,74,never,HYPERTENSION,ARB; beta blocker; diuretic
+635,303,3,2115-10-08,female,74,never,CAD,statin; thienopyridine
+636,303,4,2120-03-09,female,76,NA,DIABETES,insulin
+637,303,4,2120-03-09,female,76,NA,HYPERTENSION,ARB; beta blocker; calcium channel blocker; ACE inhibitor
+638,303,4,2120-03-09,female,76,NA,CAD,statin; thienopyridine; aspirin
+639,304,1,2061-08-26,male,27,never,HYPERTENSION,nitrate; beta blocker
+640,304,1,2061-08-26,male,27,never,DIABETES,insulin
+641,304,2,2061-10-03,male,27,never,DIABETES,insulin
+642,304,2,2061-10-03,male,27,never,HYPERTENSION,ARB; beta blocker; calcium channel blocker; ACE inhibitor
+643,304,2,2061-10-03,male,27,never,CAD,aspirin
+644,304,3,2062-03-27,male,27,never,DIABETES,insulin
+645,304,3,2062-03-27,male,27,never,HYPERTENSION,beta blocker; calcium channel blocker; ACE inhibitor
+646,304,3,2062-03-27,male,27,never,CAD,aspirin
+647,304,4,2062-05-30,male,28,unknown,DIABETES,insulin
+648,304,4,2062-05-30,male,28,unknown,HYPERTENSION,beta blocker; calcium channel blocker; ACE inhibitor
+649,304,4,2062-05-30,male,28,unknown,CAD,statin; aspirin
+650,304,5,2062-08-30,male,28,never,DIABETES,insulin
+651,304,5,2062-08-30,male,28,never,HYPERTENSION,ARB; beta blocker; calcium channel blocker; ACE inhibitor
+652,304,5,2062-08-30,male,28,never,CAD,statin; aspirin
+653,305,1,2081-04-27,male,53,unknown,HYPERTENSION,beta blocker
+654,305,2,2086-02-11,male,NA,unknown,CAD,statin; aspirin
+655,305,3,2087-03-01,male,NA,unknown,HYPERTENSION,beta blocker
+656,305,3,2087-03-01,male,NA,unknown,CAD,statin; aspirin
+657,305,4,2088-04-19,male,NA,unknown,DIABETES,metformin
+658,305,4,2088-04-19,male,NA,unknown,HYPERTENSION,beta blocker
+659,305,4,2088-04-19,male,NA,unknown,CAD,aspirin
+660,306,2,2115-12-14,female,54,past,DIABETES,sulfonylureas; metformin
+661,306,2,2115-12-14,female,54,past,HYPERTENSION,beta blocker; ACE inhibitor
+662,306,2,2115-12-14,female,54,past,CAD,statin
+663,306,3,2116-08-26,female,55,never,DIABETES,sulfonylureas; metformin
+664,306,3,2116-08-26,female,55,never,HYPERTENSION,ACE inhibitor
+665,306,3,2116-08-26,female,55,never,CAD,statin; aspirin
+666,307,3,2059-05-28,female,46,unknown,HYPERTENSION,nitrate
+667,307,4,2059-08-09,female,46,unknown,HYPERTENSION,beta blocker
+668,307,5,2060-01-20,female,47,unknown,HYPERTENSION,calcium channel blocker
+669,308,1,2074-06-05,male,NA,never,DIABETES,sulfonylureas; metformin
+670,308,1,2074-06-05,male,NA,never,HYPERTENSION,ACE inhibitor; diuretic
+671,308,1,2074-06-05,male,NA,never,CAD,statin; aspirin
+672,308,2,2075-08-08,male,62,unknown,DIABETES,sulfonylureas; metformin
+673,308,2,2075-08-08,male,62,unknown,HYPERTENSION,ACE inhibitor; diuretic
+674,308,2,2075-08-08,male,62,unknown,CAD,statin; aspirin
+675,308,3,2075-09-26,male,62,unknown,DIABETES,sulfonylureas; metformin
+676,308,3,2075-09-26,male,62,unknown,HYPERTENSION,ACE inhibitor; diuretic
+677,308,3,2075-09-26,male,62,unknown,CAD,statin; aspirin
+678,308,4,2076-09-24,male,63,unknown,DIABETES,sulfonylureas; metformin
+679,308,4,2076-09-24,male,63,unknown,CAD,statin; thienopyridine
+680,309,1,2092-04-21,female,NA,unknown,HYPERTENSION,ARB; beta blocker; diuretic
+681,309,2,2092-12-15,female,71,unknown,HYPERTENSION,ARB; beta blocker; diuretic
+682,309,3,2093-10-18,female,72,never,HYPERLIPIDEMIA,fibrate
+683,309,3,2093-10-18,female,72,never,HYPERTENSION,ARB; diuretic
+684,309,3,2093-10-18,female,72,never,CAD,aspirin
+685,309,4,2094-05-08,female,73,unknown,HYPERTENSION,beta blocker
+686,309,4,2094-05-08,female,73,unknown,CAD,thienopyridine; aspirin
+687,309,5,2097-06-28,female,76,unknown,HYPERTENSION,ARB; beta blocker; calcium channel blocker; diuretic
+688,309,5,2097-06-28,female,76,unknown,DIABETES,insulin
+689,320,1,2080-03-13,female,70,unknown,DIABETES,thiazolidinedione; metformin
+690,320,1,2080-03-13,female,70,unknown,HYPERTENSION,nitrate; beta blocker; ACE inhibitor
+691,320,1,2080-03-13,female,70,unknown,CAD,statin; aspirin
+692,320,2,2080-05-30,female,70,unknown,DIABETES,metformin
+693,320,2,2080-05-30,female,70,unknown,HYPERTENSION,nitrate; beta blocker; ACE inhibitor
+694,320,2,2080-05-30,female,70,unknown,CAD,statin; aspirin
+695,320,3,2080-06-13,female,NA,unknown,DIABETES,metformin
+696,320,3,2080-06-13,female,NA,unknown,HYPERTENSION,beta blocker; ACE inhibitor
+697,320,3,2080-06-13,female,NA,unknown,CAD,statin; aspirin
+698,321,1,2068-01-04,female,NA,never,DIABETES,thiazolidinedione; insulin
+699,321,1,2068-01-04,female,NA,never,HYPERTENSION,ACE inhibitor
+700,321,1,2068-01-04,female,NA,never,CAD,statin; aspirin
+701,321,2,2069-07-03,NA,NA,unknown,HYPERTENSION,beta blocker
+702,321,3,2071-02-03,female,62,unknown,DIABETES,thiazolidinedione; insulin
+703,321,3,2071-02-03,female,62,unknown,HYPERTENSION,ARB; beta blocker; calcium channel blocker; diuretic
+704,321,3,2071-02-03,female,62,unknown,CAD,statin; aspirin
+705,321,4,2072-03-08,NA,56,never,DIABETES,insulin
+706,321,4,2072-03-08,NA,56,never,HYPERTENSION,beta blocker; calcium channel blocker; ACE inhibitor; diuretic
+707,321,4,2072-03-08,NA,56,never,CAD,statin; aspirin
+708,322,1,2076-01-24,male,31,unknown,DIABETES,sulfonylureas; metformin
+709,322,1,2076-01-24,male,31,unknown,HYPERTENSION,beta blocker; ACE inhibitor; diuretic
+710,322,1,2076-01-24,male,31,unknown,CAD,statin
+711,322,2,2076-08-30,male,32,never,DIABETES,sulfonylureas; insulin
+712,322,2,2076-08-30,male,32,never,HYPERTENSION,beta blocker
+713,322,2,2076-08-30,male,32,never,CAD,statin
+714,322,3,2077-02-28,male,33,never,HYPERLIPIDEMIA,fibrate
+715,322,3,2077-02-28,male,33,never,DIABETES,sulfonylureas; metformin; insulin
+716,322,3,2077-02-28,male,33,never,HYPERTENSION,ARB; beta blocker; ACE inhibitor; diuretic
+717,322,3,2077-02-28,male,33,never,CAD,statin; aspirin
+718,322,4,2077-06-19,male,33,never,HYPERLIPIDEMIA,fibrate
+719,322,4,2077-06-19,male,33,never,HYPERTENSION,ARB; beta blocker; ACE inhibitor
+720,322,4,2077-06-19,male,33,never,DIABETES,insulin
+721,322,5,2078-03-26,male,33,never,DIABETES,insulin
+722,322,5,2078-03-26,male,33,never,HYPERTENSION,beta blocker
+723,322,5,2078-03-26,male,33,never,CAD,statin
+724,323,1,2060-08-27,female,65,past,DIABETES,thiazolidinedione; insulin
+725,323,1,2060-08-27,female,65,past,HYPERTENSION,beta blocker; calcium channel blocker; ACE inhibitor
+726,323,1,2060-08-27,female,65,past,CAD,statin; aspirin
+727,323,2,2061-07-15,female,65,never,DIABETES,insulin
+728,323,2,2061-07-15,female,65,never,HYPERTENSION,beta blocker; ACE inhibitor; diuretic
+729,323,2,2061-07-15,female,65,never,CAD,statin; aspirin
+730,323,3,2065-04-22,female,NA,unknown,DIABETES,metformin; insulin
+731,323,3,2065-04-22,female,NA,unknown,HYPERTENSION,beta blocker; ACE inhibitor; diuretic
+732,323,3,2065-04-22,female,NA,unknown,CAD,statin; aspirin
+733,323,5,2067-02-12,female,71,unknown,DIABETES,insulin
+734,323,5,2067-02-12,female,71,unknown,HYPERTENSION,beta blocker; ACE inhibitor; diuretic
+735,323,5,2067-02-12,female,71,unknown,CAD,statin; aspirin
+736,324,3,2068-12-01,male,59,unknown,HYPERTENSION,beta blocker; ACE inhibitor
+737,324,3,2068-12-01,male,59,unknown,CAD,statin
+738,324,5,2072-06-12,male,63,past,HYPERTENSION,beta blocker
+739,324,5,2072-06-12,male,63,past,DIABETES,insulin
+740,325,1,2078-07-30,NA,50,unknown,HYPERTENSION,ACE inhibitor; diuretic
+741,325,2,2078-11-23,female,51,past,HYPERTENSION,beta blocker; ACE inhibitor
+742,325,2,2078-11-23,female,51,past,CAD,aspirin
+743,325,3,2079-02-03,female,51,past,HYPERTENSION,nitrate; beta blocker; ACE inhibitor
+744,325,3,2079-02-03,female,51,past,CAD,statin; aspirin
+745,325,4,2081-05-01,female,53,past,HYPERTENSION,beta blocker; ACE inhibitor
+746,325,4,2081-05-01,female,53,past,CAD,statin; aspirin
+747,325,5,2082-02-21,female,54,unknown,HYPERTENSION,beta blocker; ACE inhibitor; diuretic
+748,325,5,2082-02-21,female,54,unknown,CAD,statin; aspirin
+749,326,3,2086-09-06,female,29,unknown,HYPERTENSION,beta blocker
+750,326,4,2087-03-04,female,30,unknown,HYPERTENSION,beta blocker
+751,326,5,2089-10-20,female,32,past,HYPERTENSION,ARB; beta blocker
+752,326,5,2089-10-20,female,32,past,DIABETES,metformin
+753,327,1,2092-05-16,male,56,never,HYPERTENSION,beta blocker; ACE inhibitor; diuretic
+754,327,1,2092-05-16,male,56,never,DIABETES,metformin
+755,327,2,2093-03-28,male,NA,unknown,DIABETES,metformin; insulin
+756,327,2,2093-03-28,male,NA,unknown,HYPERTENSION,beta blocker; ACE inhibitor
+757,327,2,2093-03-28,male,NA,unknown,CAD,statin
+758,327,3,2093-09-18,male,NA,unknown,DIABETES,metformin; insulin
+759,327,3,2093-09-18,male,NA,unknown,HYPERTENSION,beta blocker; ACE inhibitor
+760,327,3,2093-09-18,male,NA,unknown,CAD,statin
+761,327,4,2094-05-01,male,58,never,DIABETES,insulin
+762,327,4,2094-05-01,male,58,never,HYPERTENSION,beta blocker; ACE inhibitor
+763,327,4,2094-05-01,male,58,never,CAD,statin; thienopyridine; aspirin
+764,328,1,2077-06-29,female,87,never,HYPERTENSION,beta blocker; calcium channel blocker
+765,328,1,2077-06-29,female,87,never,CAD,statin; aspirin
+766,328,2,2077-07-14,female,87,never,HYPERTENSION,beta blocker
+767,328,2,2077-07-14,female,87,never,CAD,statin; aspirin
+768,328,3,2077-11-16,female,88,never,HYPERTENSION,beta blocker; calcium channel blocker
+769,328,3,2077-11-16,female,88,never,CAD,statin; aspirin
+770,328,4,2078-06-14,female,88,unknown,HYPERTENSION,beta blocker; calcium channel blocker; ACE inhibitor
+771,328,4,2078-06-14,female,88,unknown,CAD,statin; aspirin
+772,329,2,2150-02-09,male,83,past,HYPERTENSION,beta blocker; ACE inhibitor; diuretic
+773,329,2,2150-02-09,male,83,past,CAD,statin; aspirin
+774,329,3,2150-06-01,male,NA,unknown,HYPERTENSION,beta blocker; ACE inhibitor
+775,329,4,2152-06-26,male,85,past,HYPERTENSION,beta blocker; ACE inhibitor
+776,329,4,2152-06-26,male,85,past,CAD,statin; aspirin
+777,330,1,2083-10-06,male,65,past,HYPERTENSION,beta blocker; ACE inhibitor; diuretic
+778,330,1,2083-10-06,male,65,past,DIABETES,insulin
+779,330,2,2083-12-30,NA,NA,unknown,DIABETES,insulin
+780,330,3,2084-06-12,male,NA,unknown,DIABETES,insulin
+781,330,3,2084-06-12,male,NA,unknown,HYPERTENSION,calcium channel blocker
+782,330,3,2084-06-12,male,NA,unknown,CAD,aspirin
+783,330,4,2087-03-09,male,NA,unknown,DIABETES,insulin
+784,330,4,2087-03-09,male,NA,unknown,HYPERTENSION,calcium channel blocker
+785,330,4,2087-03-09,male,NA,unknown,CAD,statin; aspirin
+786,331,1,2078-12-06,male,74,never,DIABETES,sulfonylureas; thiazolidinedione
+787,331,1,2078-12-06,male,74,never,HYPERTENSION,beta blocker; calcium channel blocker; ACE inhibitor
+788,331,1,2078-12-06,male,74,never,CAD,statin; thienopyridine
+789,331,2,2079-01-24,male,74,never,DIABETES,sulfonylureas; thiazolidinedione
+790,331,2,2079-01-24,male,74,never,HYPERTENSION,beta blocker; calcium channel blocker; ACE inhibitor
+791,331,2,2079-01-24,male,74,never,CAD,statin; thienopyridine
+792,331,3,2079-08-13,male,74,unknown,HYPERTENSION,nitrate
+793,331,4,2080-11-09,male,76,past,HYPERTENSION,beta blocker
+794,331,5,2080-12-18,male,76,unknown,HYPERTENSION,beta blocker; calcium channel blocker
+795,331,5,2080-12-18,male,76,unknown,DIABETES,insulin
+796,332,1,2094-01-29,female,NA,unknown,HYPERTENSION,calcium channel blocker
+797,332,2,2094-08-11,female,NA,unknown,DIABETES,sulfonylureas; metformin
+798,332,2,2094-08-11,female,NA,unknown,HYPERTENSION,beta blocker; calcium channel blocker; ACE inhibitor; diuretic
+799,332,2,2094-08-11,female,NA,unknown,CAD,aspirin
+800,332,3,2097-08-21,female,87,unknown,DIABETES,sulfonylureas
+801,332,3,2097-08-21,female,87,unknown,HYPERTENSION,beta blocker; calcium channel blocker; ACE inhibitor
+802,332,3,2097-08-21,female,87,unknown,CAD,statin; aspirin
+803,332,4,2097-10-31,female,NA,unknown,DIABETES,sulfonylureas
+804,332,4,2097-10-31,female,NA,unknown,HYPERTENSION,beta blocker; calcium channel blocker; ACE inhibitor
+805,332,4,2097-10-31,female,NA,unknown,CAD,statin; aspirin
+806,332,5,2097-12-04,female,87,unknown,DIABETES,metformin; insulin
+807,332,5,2097-12-04,female,87,unknown,HYPERTENSION,beta blocker
+808,332,5,2097-12-04,female,87,unknown,CAD,aspirin
+809,333,1,2122-02-23,female,62,past,HYPERLIPIDEMIA,fibrate
+810,333,1,2122-02-23,female,62,past,DIABETES,metformin; insulin
+811,333,1,2122-02-23,female,62,past,HYPERTENSION,beta blocker; calcium channel blocker; ACE inhibitor
+812,333,1,2122-02-23,female,62,past,CAD,statin; aspirin
+813,333,2,2122-06-07,female,63,never,HYPERLIPIDEMIA,fibrate
+814,333,2,2122-06-07,female,63,never,DIABETES,metformin; insulin
+815,333,2,2122-06-07,female,63,never,HYPERTENSION,beta blocker; calcium channel blocker; ACE inhibitor
+816,333,2,2122-06-07,female,63,never,CAD,statin; aspirin
+817,333,3,2123-07-05,female,64,past,DIABETES,insulin
+818,333,3,2123-07-05,female,64,past,HYPERTENSION,beta blocker; calcium channel blocker
+819,333,3,2123-07-05,female,64,past,CAD,statin; aspirin
+820,333,4,2124-03-04,female,64,past,HYPERLIPIDEMIA,fibrate
+821,333,4,2124-03-04,female,64,past,DIABETES,metformin; insulin
+822,333,4,2124-03-04,female,64,past,HYPERTENSION,beta blocker; calcium channel blocker; ACE inhibitor
+823,333,4,2124-03-04,female,64,past,CAD,statin; aspirin
+824,334,1,2132-09-28,male,66,never,DIABETES,insulin
+825,334,3,2132-11-25,male,66,never,DIABETES,insulin
+826,334,3,2132-11-25,male,66,never,HYPERTENSION,beta blocker; calcium channel blocker
+827,334,3,2132-11-25,male,66,never,CAD,statin; thienopyridine; aspirin
+828,334,4,2133-08-25,male,67,never,DIABETES,insulin
+829,334,4,2133-08-25,male,67,never,HYPERTENSION,beta blocker; calcium channel blocker
+830,334,4,2133-08-25,male,67,never,CAD,statin; thienopyridine
+831,335,1,2102-05-19,female,67,never,DIABETES,insulin
+832,335,1,2102-05-19,female,67,never,HYPERTENSION,calcium channel blocker; ACE inhibitor
+833,335,1,2102-05-19,female,67,never,CAD,statin
+834,335,2,2103-09-02,female,69,unknown,DIABETES,sulfonylureas; thiazolidinedione; metformin
+835,335,2,2103-09-02,female,69,unknown,HYPERTENSION,ACE inhibitor
+836,335,2,2103-09-02,female,69,unknown,CAD,statin; aspirin
+837,335,3,2104-01-30,female,69,never,DIABETES,thiazolidinedione
+838,335,3,2104-01-30,female,69,never,HYPERTENSION,ACE inhibitor
+839,335,3,2104-01-30,female,69,never,CAD,statin; aspirin
+840,335,4,2104-04-14,female,69,never,DIABETES,insulin
+841,335,4,2104-04-14,female,69,never,HYPERTENSION,beta blocker; ACE inhibitor
+842,335,4,2104-04-14,female,69,never,CAD,statin; aspirin
+843,336,1,2078-02-04,female,70,never,DIABETES,sulfonylureas; metformin
+844,336,1,2078-02-04,female,70,never,HYPERTENSION,ACE inhibitor
+845,336,1,2078-02-04,female,70,never,CAD,aspirin
+846,336,2,2080-03-28,female,72,past,DIABETES,insulin
+847,336,2,2080-03-28,female,72,past,HYPERTENSION,beta blocker; ACE inhibitor; diuretic
+848,336,2,2080-03-28,female,72,past,CAD,statin; aspirin
+849,336,3,2080-04-17,female,72,ever,DIABETES,metformin; insulin
+850,336,3,2080-04-17,female,72,ever,HYPERTENSION,beta blocker; ACE inhibitor; diuretic
+851,336,3,2080-04-17,female,72,ever,CAD,statin; aspirin
+852,336,4,2081-02-13,NA,72,current,HYPERTENSION,beta blocker
+853,336,4,2081-02-13,NA,72,current,CAD,statin; aspirin
+854,337,1,2085-02-11,female,73,never,HYPERTENSION,diuretic
+855,337,1,2085-02-11,female,73,never,CAD,statin; aspirin
+856,337,2,2085-04-22,female,73,past,HYPERTENSION,beta blocker
+857,337,2,2085-04-22,female,73,past,CAD,statin
+858,337,3,2085-08-31,female,73,past,HYPERTENSION,beta blocker
+859,337,3,2085-08-31,female,73,past,CAD,statin
+860,337,4,2087-08-01,female,75,never,HYPERTENSION,beta blocker
+861,337,4,2087-08-01,female,75,never,CAD,statin
+862,337,5,2087-09-03,female,75,past,HYPERTENSION,beta blocker
+863,337,5,2087-09-03,female,75,past,CAD,statin
+864,338,1,2088-12-21,male,34,unknown,DIABETES,metformin; insulin
+865,338,2,2090-12-25,male,36,unknown,DIABETES,sulfonylureas; metformin
+866,338,2,2090-12-25,male,36,unknown,HYPERTENSION,ACE inhibitor
+867,338,2,2090-12-25,male,36,unknown,CAD,statin
+868,338,3,2094-08-12,male,39,current,DIABETES,metformin; insulin
+869,338,3,2094-08-12,male,39,current,HYPERTENSION,ACE inhibitor
+870,338,3,2094-08-12,male,39,current,CAD,statin; aspirin
+871,338,4,2095-04-24,male,41,current,HYPERTENSION,ACE inhibitor
+872,338,4,2095-04-24,male,41,current,DIABETES,metformin; insulin
+873,338,5,2096-06-06,male,41,current,DIABETES,metformin; insulin
+874,338,5,2096-06-06,male,41,current,HYPERTENSION,ACE inhibitor
+875,338,5,2096-06-06,male,41,current,CAD,statin; aspirin
+876,339,1,2082-02-28,NA,NA,never,HYPERTENSION,ACE inhibitor
+877,339,1,2082-02-28,NA,NA,never,DIABETES,sulfonylureas; metformin
+878,339,2,2084-04-29,NA,NA,unknown,HYPERTENSION,beta blocker; ACE inhibitor; diuretic
+879,339,3,2085-02-28,female,74,never,DIABETES,metformin; insulin
+880,339,3,2085-02-28,female,74,never,HYPERTENSION,beta blocker; calcium channel blocker; ACE inhibitor; diuretic
+881,339,3,2085-02-28,female,74,never,CAD,statin; aspirin
+882,339,4,2085-07-17,female,75,never,DIABETES,insulin
+883,339,4,2085-07-17,female,75,never,HYPERTENSION,beta blocker; ACE inhibitor; diuretic
+884,339,4,2085-07-17,female,75,never,CAD,statin; aspirin
+885,350,1,2089-12-22,female,58,past,DIABETES,metformin
+886,350,1,2089-12-22,female,58,past,HYPERTENSION,ARB; beta blocker; diuretic
+887,350,1,2089-12-22,female,58,past,CAD,statin; aspirin
+888,350,2,2090-06-29,female,58,unknown,DIABETES,sulfonylureas; metformin
+889,350,2,2090-06-29,female,58,unknown,HYPERTENSION,ARB; beta blocker; diuretic
+890,350,2,2090-06-29,female,58,unknown,CAD,statin; thienopyridine
+891,350,3,2090-09-25,female,58,past,DIABETES,sulfonylureas; metformin
+892,350,3,2090-09-25,female,58,past,HYPERTENSION,ARB; beta blocker
+893,350,3,2090-09-25,female,58,past,CAD,statin; thienopyridine
+894,350,4,2092-05-09,female,60,unknown,DIABETES,sulfonylureas; metformin
+895,350,4,2092-05-09,female,60,unknown,HYPERTENSION,ARB; beta blocker; diuretic
+896,350,4,2092-05-09,female,60,unknown,CAD,statin; thienopyridine
+897,351,1,2079-05-25,female,NA,unknown,DIABETES,sulfonylureas
+898,351,2,2079-11-09,female,65,never,HYPERTENSION,ACE inhibitor; calcium channel blocker
+899,351,3,2080-01-13,female,65,unknown,DIABETES,insulin
+900,351,3,2080-01-13,female,65,unknown,HYPERTENSION,nitrate; calcium channel blocker; ACE inhibitor
+901,351,3,2080-01-13,female,65,unknown,CAD,statin
+902,352,1,2062-02-13,female,58,never,DIABETES,metformin; insulin
+903,352,2,2069-10-22,female,66,unknown,DIABETES,insulin
+904,352,2,2069-10-22,female,66,unknown,HYPERTENSION,nitrate; ACE inhibitor
+905,352,2,2069-10-22,female,66,unknown,CAD,statin; aspirin
+906,352,3,2069-12-24,female,66,never,DIABETES,metformin; insulin
+907,352,3,2069-12-24,female,66,never,HYPERTENSION,nitrate; beta blocker; ACE inhibitor
+908,352,3,2069-12-24,female,66,never,CAD,statin; aspirin
+909,352,4,2070-11-29,female,67,never,DIABETES,metformin; insulin
+910,352,4,2070-11-29,female,67,never,HYPERTENSION,beta blocker; ACE inhibitor
+911,352,4,2070-11-29,female,67,never,CAD,statin; aspirin
+912,352,5,2072-05-24,female,69,unknown,DIABETES,insulin
+913,352,5,2072-05-24,female,69,unknown,HYPERTENSION,beta blocker; ACE inhibitor
+914,352,5,2072-05-24,female,69,unknown,CAD,aspirin
+915,353,1,2078-10-25,male,56,current,DIABETES,insulin
+916,353,2,2080-07-03,male,NA,current,DIABETES,insulin
+917,353,2,2080-07-03,male,NA,current,HYPERTENSION,beta blocker; ACE inhibitor
+918,353,2,2080-07-03,male,NA,current,CAD,statin; aspirin
+919,353,3,2081-03-30,male,58,current,DIABETES,insulin
+920,353,3,2081-03-30,male,58,current,HYPERTENSION,beta blocker; ACE inhibitor
+921,353,3,2081-03-30,male,58,current,CAD,statin; aspirin
+922,353,4,2083-04-13,male,NA,unknown,HYPERTENSION,ARB; beta blocker; ACE inhibitor
+923,353,4,2083-04-13,male,NA,unknown,CAD,statin; thienopyridine; aspirin
+924,354,1,2094-09-18,female,67,never,DIABETES,metformin
+925,354,1,2094-09-18,female,67,never,HYPERTENSION,nitrate; beta blocker
+926,354,1,2094-09-18,female,67,never,CAD,statin; aspirin
+927,354,2,2095-09-04,female,68,never,DIABETES,thiazolidinedione; metformin
+928,354,2,2095-09-04,female,68,never,HYPERTENSION,beta blocker; ACE inhibitor; diuretic
+929,354,2,2095-09-04,female,68,never,CAD,statin; aspirin
+930,354,3,2096-09-17,female,69,never,HYPERTENSION,beta blocker
+931,354,3,2096-09-17,female,69,never,DIABETES,metformin; insulin
+932,354,4,2097-07-30,female,70,unknown,DIABETES,metformin; insulin
+933,354,4,2097-07-30,female,70,unknown,HYPERTENSION,beta blocker; ACE inhibitor; diuretic
+934,354,4,2097-07-30,female,70,unknown,CAD,statin; aspirin
+935,355,1,2089-03-13,male,54,past,HYPERTENSION,ACE inhibitor
+936,355,1,2089-03-13,male,54,past,DIABETES,metformin
+937,355,2,2090-05-14,male,54,past,HYPERTENSION,beta blocker; ACE inhibitor
+938,355,2,2090-05-14,male,54,past,DIABETES,metformin
+939,355,3,2093-10-31,male,3,never,DIABETES,metformin
+940,355,3,2093-10-31,male,3,never,HYPERTENSION,ACE inhibitor
+941,355,3,2093-10-31,male,3,never,CAD,statin; aspirin
+942,355,4,2096-09-05,male,61,past,DIABETES,DPP4 inhibitors; metformin; insulin
+943,355,4,2096-09-05,male,61,past,CAD,statin; aspirin
+944,356,2,2151-09-12,male,NA,never,DIABETES,metformin
+945,356,2,2151-09-12,male,NA,never,HYPERTENSION,ARB; beta blocker; ACE inhibitor; diuretic
+946,356,2,2151-09-12,male,NA,never,CAD,statin
+947,356,3,2152-11-27,male,76,never,DIABETES,metformin
+948,356,3,2152-11-27,male,76,never,HYPERTENSION,ARB; beta blocker; ACE inhibitor
+949,356,3,2152-11-27,male,76,never,CAD,statin; aspirin
+950,356,4,2154-05-15,male,78,never,DIABETES,metformin
+951,356,4,2154-05-15,male,78,never,HYPERTENSION,ARB; beta blocker; ACE inhibitor
+952,356,4,2154-05-15,male,78,never,CAD,statin; aspirin
+953,357,1,2069-10-07,female,63,unknown,HYPERTENSION,calcium channel blocker; ACE inhibitor
+954,357,2,2075-07-03,female,74,unknown,DIABETES,insulin
+955,357,2,2075-07-03,female,74,unknown,HYPERTENSION,calcium channel blocker
+956,357,2,2075-07-03,female,74,unknown,CAD,statin
+957,357,3,2077-01-31,female,76,current,DIABETES,insulin
+958,357,3,2077-01-31,female,76,current,HYPERTENSION,calcium channel blocker; ACE inhibitor
+959,357,3,2077-01-31,female,76,current,CAD,statin; aspirin
+960,357,4,2080-01-18,female,79,unknown,DIABETES,insulin
+961,357,4,2080-01-18,female,79,unknown,HYPERTENSION,beta blocker; calcium channel blocker; ACE inhibitor
+962,357,4,2080-01-18,female,79,unknown,CAD,statin; aspirin
+963,357,5,2081-02-03,female,80,unknown,DIABETES,insulin
+964,357,5,2081-02-03,female,80,unknown,HYPERTENSION,beta blocker; calcium channel blocker; ACE inhibitor
+965,357,5,2081-02-03,female,80,unknown,CAD,statin; aspirin
+966,358,1,2079-01-14,female,47,unknown,DIABETES,sulfonylureas
+967,358,2,2080-03-24,female,48,current,DIABETES,sulfonylureas
+968,358,2,2080-03-24,female,48,current,HYPERTENSION,ACE inhibitor
+969,358,2,2080-03-24,female,48,current,CAD,statin; aspirin
+970,358,3,2081-03-17,female,49,current,DIABETES,sulfonylureas; metformin
+971,358,3,2081-03-17,female,49,current,HYPERTENSION,beta blocker; ACE inhibitor; diuretic
+972,358,3,2081-03-17,female,49,current,CAD,statin; aspirin
+973,358,4,2081-10-07,female,50,current,DIABETES,sulfonylureas; metformin
+974,358,4,2081-10-07,female,50,current,HYPERTENSION,beta blocker; ACE inhibitor; diuretic
+975,358,4,2081-10-07,female,50,current,CAD,statin
+976,359,1,2090-07-16,female,57,unknown,HYPERTENSION,beta blocker; ACE inhibitor; diuretic
+977,359,1,2090-07-16,female,57,unknown,CAD,statin; aspirin
+978,359,2,2091-11-22,NA,57,never,HYPERTENSION,beta blocker; ACE inhibitor; diuretic
+979,359,2,2091-11-22,NA,57,never,CAD,statin; aspirin
+980,359,3,2093-07-09,NA,59,never,DIABETES,metformin
+981,359,3,2093-07-09,NA,59,never,HYPERTENSION,beta blocker; ACE inhibitor; diuretic
+982,359,3,2093-07-09,NA,59,never,CAD,statin; aspirin
+983,359,4,2095-06-09,NA,62,never,DIABETES,sulfonylureas
+984,359,4,2095-06-09,NA,62,never,HYPERTENSION,beta blocker; ACE inhibitor; diuretic
+985,359,4,2095-06-09,NA,62,never,CAD,statin; aspirin
+986,360,1,2076-09-25,male,NA,unknown,HYPERTENSION,beta blocker; ACE inhibitor
+987,360,2,2077-01-14,male,74,unknown,HYPERTENSION,beta blocker; ACE inhibitor; diuretic
+988,360,2,2077-01-14,male,74,unknown,CAD,statin
+989,360,3,2077-06-16,male,75,unknown,HYPERTENSION,beta blocker; ACE inhibitor; diuretic
+990,360,4,2079-03-13,male,77,never,HYPERTENSION,beta blocker; ACE inhibitor; diuretic
+991,360,4,2079-03-13,male,77,never,CAD,statin
+992,361,1,2064-06-16,male,44,never,HYPERLIPIDEMIA,fibrate
+993,361,1,2064-06-16,male,44,never,DIABETES,insulin
+994,361,1,2064-06-16,male,44,never,HYPERTENSION,ARB; ACE inhibitor
+995,361,1,2064-06-16,male,44,never,CAD,aspirin
+996,361,2,2065-01-29,male,46,unknown,HYPERTENSION,beta blocker
+997,361,3,2066-05-09,male,45,never,HYPERLIPIDEMIA,fibrate
+998,361,3,2066-05-09,male,45,never,DIABETES,insulin
+999,361,3,2066-05-09,male,45,never,HYPERTENSION,beta blocker; ACE inhibitor
+1000,361,3,2066-05-09,male,45,never,CAD,statin; aspirin
+1001,361,4,2068-06-23,male,48,past,DIABETES,insulin
+1002,361,4,2068-06-23,male,48,past,HYPERTENSION,beta blocker; calcium channel blocker; ACE inhibitor
+1003,361,4,2068-06-23,male,48,past,CAD,statin; aspirin
+1004,361,5,2068-07-06,male,48,past,DIABETES,insulin
+1005,361,5,2068-07-06,male,48,past,HYPERTENSION,nitrate; beta blocker; calcium channel blocker; ACE inhibitor
+1006,361,5,2068-07-06,male,48,past,CAD,statin; aspirin
+1007,362,2,2072-04-08,female,47,unknown,HYPERTENSION,calcium channel blocker
+1008,362,2,2072-04-08,female,47,unknown,DIABETES,metformin
+1009,362,3,2074-10-17,female,57,never,DIABETES,metformin
+1010,362,3,2074-10-17,female,57,never,HYPERTENSION,beta blocker; calcium channel blocker
+1011,362,3,2074-10-17,female,57,never,CAD,aspirin
+1012,362,4,2076-10-07,female,59,unknown,DIABETES,metformin
+1013,362,4,2076-10-07,female,59,unknown,HYPERTENSION,ARB
+1014,362,4,2076-10-07,female,59,unknown,CAD,statin; aspirin
+1015,363,2,2092-11-19,NA,74,never,HYPERTENSION,beta blocker; ACE inhibitor; diuretic
+1016,363,2,2092-11-19,NA,74,never,DIABETES,sulfonylureas; metformin
+1017,363,3,2094-03-20,female,75,unknown,DIABETES,sulfonylureas; metformin
+1018,363,3,2094-03-20,female,75,unknown,HYPERTENSION,beta blocker; ACE inhibitor; diuretic
+1019,363,3,2094-03-20,female,75,unknown,CAD,statin
+1020,364,1,2118-07-04,male,50,past,DIABETES,sulfonylureas
+1021,364,1,2118-07-04,male,50,past,HYPERTENSION,calcium channel blocker
+1022,364,1,2118-07-04,male,50,past,CAD,aspirin
+1023,364,2,2121-08-10,male,53,past,DIABETES,sulfonylureas
+1024,364,2,2121-08-10,male,53,past,HYPERTENSION,calcium channel blocker
+1025,364,2,2121-08-10,male,53,past,CAD,aspirin
+1026,364,3,2123-12-10,male,55,past,DIABETES,metformin
+1027,364,3,2123-12-10,male,55,past,HYPERTENSION,calcium channel blocker; ACE inhibitor
+1028,364,3,2123-12-10,male,55,past,CAD,aspirin
+1029,364,4,2124-11-23,male,56,past,DIABETES,metformin; insulin
+1030,364,4,2124-11-23,male,56,past,HYPERTENSION,calcium channel blocker; ACE inhibitor
+1031,364,4,2124-11-23,male,56,past,CAD,statin; aspirin
+1032,365,2,2071-04-11,male,44,current,DIABETES,metformin
+1033,365,2,2071-04-11,male,44,current,HYPERTENSION,ARB; beta blocker
+1034,365,2,2071-04-11,male,44,current,CAD,statin; aspirin
+1035,365,3,2073-10-26,male,47,past,DIABETES,insulin
+1036,365,3,2073-10-26,male,47,past,HYPERTENSION,ARB; beta blocker
+1037,365,3,2073-10-26,male,47,past,CAD,statin; aspirin
+1038,365,4,2074-06-09,male,47,current,DIABETES,metformin; insulin
+1039,365,4,2074-06-09,male,47,current,HYPERTENSION,beta blocker
+1040,365,4,2074-06-09,male,47,current,CAD,statin
+1041,365,5,2076-02-17,male,49,past,HYPERTENSION,ARB; beta blocker; ACE inhibitor
+1042,365,5,2076-02-17,male,49,past,DIABETES,metformin; insulin
+1043,366,2,2061-10-12,female,NA,never,CAD,statin; aspirin
+1044,366,4,2067-03-10,female,75,past,HYPERLIPIDEMIA,ezetimibe
+1045,366,4,2067-03-10,female,75,past,HYPERTENSION,beta blocker; calcium channel blocker
+1046,366,4,2067-03-10,female,75,past,CAD,statin; thienopyridine; aspirin
+1047,367,1,2082-04-10,NA,NA,never,CAD,aspirin
+1048,367,1,2082-04-10,NA,NA,never,HYPERTENSION,ARB
+1049,367,1,2082-04-10,NA,NA,never,DIABETES,sulfonylureas
+1050,367,2,2082-10-31,female,75,past,DIABETES,sulfonylureas; insulin
+1051,367,2,2082-10-31,female,75,past,HYPERTENSION,ARB; beta blocker; diuretic
+1052,367,2,2082-10-31,female,75,past,CAD,aspirin
+1053,367,3,2083-07-09,female,NA,never,HYPERTENSION,ARB; beta blocker
+1054,367,3,2083-07-09,female,NA,never,DIABETES,sulfonylureas
+1055,367,4,2084-03-05,female,77,unknown,DIABETES,sulfonylureas
+1056,367,4,2084-03-05,female,77,unknown,HYPERTENSION,ARB; beta blocker; calcium channel blocker
+1057,367,4,2084-03-05,female,77,unknown,CAD,statin; aspirin
+1058,368,1,2094-09-02,female,NA,unknown,HYPERTENSION,ARB
+1059,368,1,2094-09-02,female,NA,unknown,DIABETES,sulfonylureas; metformin
+1060,368,2,2096-01-26,female,56,unknown,DIABETES,sulfonylureas; metformin
+1061,368,2,2096-01-26,female,56,unknown,HYPERTENSION,ARB; beta blocker
+1062,368,2,2096-01-26,female,56,unknown,CAD,aspirin
+1063,368,3,2096-07-27,female,56,never,DIABETES,insulin
+1064,368,3,2096-07-27,female,56,never,HYPERTENSION,ARB; diuretic
+1065,368,3,2096-07-27,female,56,never,CAD,statin; aspirin
+1066,368,4,2097-09-05,female,58,unknown,DIABETES,insulin
+1067,368,4,2097-09-05,female,58,unknown,HYPERTENSION,ARB
+1068,368,4,2097-09-05,female,58,unknown,CAD,statin; aspirin
+1069,369,1,2078-07-15,male,61,past,HYPERTENSION,beta blocker
+1070,369,1,2078-07-15,male,61,past,CAD,aspirin
+1071,369,2,2079-12-01,male,62,past,HYPERTENSION,beta blocker
+1072,369,2,2079-12-01,male,62,past,CAD,statin; aspirin
+1073,369,3,2080-11-30,male,63,past,HYPERTENSION,beta blocker
+1074,369,3,2080-11-30,male,63,past,CAD,statin; aspirin
+1075,369,4,2083-01-23,male,NA,unknown,HYPERTENSION,beta blocker
+1076,369,4,2083-01-23,male,NA,unknown,CAD,statin; aspirin
+1077,391,1,2085-09-28,female,68,unknown,HYPERTENSION,beta blocker; ACE inhibitor; diuretic
+1078,391,2,2086-08-02,female,68,past,HYPERTENSION,beta blocker; ACE inhibitor
+1079,391,2,2086-08-02,female,68,past,DIABETES,sulfonylureas
+1080,391,3,2087-03-21,female,59,unknown,HYPERTENSION,beta blocker; ACE inhibitor; diuretic
+1081,391,3,2087-03-21,female,59,unknown,DIABETES,sulfonylureas
+1082,391,4,2090-03-03,female,NA,never,HYPERTENSION,calcium channel blocker; ACE inhibitor; diuretic
+1083,391,4,2090-03-03,female,NA,never,DIABETES,insulin
+1084,391,5,2093-03-15,female,75,unknown,DIABETES,insulin
+1085,391,5,2093-03-15,female,75,unknown,HYPERTENSION,beta blocker; calcium channel blocker; ACE inhibitor; diuretic
+1086,391,5,2093-03-15,female,75,unknown,CAD,statin; aspirin
+1087,392,2,2112-01-17,female,49,current,DIABETES,sulfonylureas; metformin
+1088,392,2,2112-01-17,female,49,current,HYPERTENSION,ACE inhibitor
+1089,392,2,2112-01-17,female,49,current,CAD,statin
+1090,392,3,2112-09-30,female,50,unknown,DIABETES,sulfonylureas; metformin
+1091,392,3,2112-09-30,female,50,unknown,HYPERTENSION,ACE inhibitor
+1092,392,3,2112-09-30,female,50,unknown,CAD,statin
+1093,392,4,2113-04-07,female,50,current,DIABETES,sulfonylureas; metformin; insulin
+1094,392,4,2113-04-07,female,50,current,HYPERTENSION,ACE inhibitor
+1095,392,4,2113-04-07,female,50,current,CAD,statin; thienopyridine
+1096,393,1,2081-02-10,female,52,never,HYPERTENSION,ACE inhibitor
+1097,393,1,2081-02-10,female,52,never,CAD,aspirin
+1098,393,2,2081-06-10,female,52,never,DIABETES,metformin; insulin
+1099,393,2,2081-06-10,female,52,never,HYPERTENSION,beta blocker; ACE inhibitor
+1100,393,2,2081-06-10,female,52,never,CAD,aspirin
+1101,393,3,2081-08-09,female,86,unknown,DIABETES,insulin
+1102,393,3,2081-08-09,female,86,unknown,HYPERTENSION,beta blocker; calcium channel blocker; ACE inhibitor; diuretic
+1103,393,3,2081-08-09,female,86,unknown,CAD,aspirin
+1104,393,4,2081-09-30,female,52,never,DIABETES,metformin; insulin
+1105,393,4,2081-09-30,female,52,never,HYPERTENSION,beta blocker; calcium channel blocker; ACE inhibitor; diuretic
+1106,393,4,2081-09-30,female,52,never,CAD,aspirin
+1107,393,5,2083-02-26,female,54,never,DIABETES,insulin
+1108,393,5,2083-02-26,female,54,never,HYPERTENSION,ACE inhibitor; diuretic
+1109,393,5,2083-02-26,female,54,never,CAD,statin; aspirin
+1110,394,1,2091-06-12,female,79,unknown,HYPERTENSION,beta blocker
+1111,394,1,2091-06-12,female,79,unknown,CAD,statin; aspirin
+1112,394,2,2092-07-28,female,80,unknown,DIABETES,sulfonylureas
+1113,394,2,2092-07-28,female,80,unknown,HYPERTENSION,beta blocker
+1114,394,2,2092-07-28,female,80,unknown,CAD,statin; aspirin
+1115,394,3,2093-04-24,female,81,never,DIABETES,sulfonylureas
+1116,394,3,2093-04-24,female,81,never,HYPERTENSION,beta blocker
+1117,394,3,2093-04-24,female,81,never,CAD,statin; aspirin
+1118,394,4,2095-01-31,female,83,never,DIABETES,sulfonylureas
+1119,394,4,2095-01-31,female,83,never,HYPERTENSION,beta blocker
+1120,394,4,2095-01-31,female,83,never,CAD,statin; aspirin
+1121,395,1,2104-11-10,female,76,ever,DIABETES,metformin
+1122,395,3,2106-10-07,female,NA,unknown,DIABETES,metformin
+1123,395,3,2106-10-07,female,NA,unknown,HYPERTENSION,beta blocker; ACE inhibitor
+1124,395,3,2106-10-07,female,NA,unknown,CAD,statin; thienopyridine; aspirin
+1125,395,4,2107-08-03,female,79,past,DIABETES,metformin
+1126,395,4,2107-08-03,female,79,past,HYPERTENSION,beta blocker; ACE inhibitor
+1127,395,4,2107-08-03,female,79,past,CAD,statin; thienopyridine; aspirin
+1128,395,5,2109-09-08,female,81,unknown,DIABETES,metformin
+1129,395,5,2109-09-08,female,81,unknown,HYPERTENSION,beta blocker; ACE inhibitor
+1130,395,5,2109-09-08,female,81,unknown,CAD,thienopyridine; aspirin
+1131,396,1,2077-08-04,female,63,current,DIABETES,insulin
+1132,396,1,2077-08-04,female,63,current,HYPERTENSION,calcium channel blocker; ACE inhibitor
+1133,396,1,2077-08-04,female,63,current,CAD,aspirin
+1134,396,2,2077-11-10,female,40s,current,DIABETES,insulin
+1135,396,2,2077-11-10,female,40s,current,HYPERTENSION,beta blocker; calcium channel blocker; ACE inhibitor
+1136,396,2,2077-11-10,female,40s,current,CAD,statin; aspirin
+1137,396,3,2078-10-25,female,40s,past,DIABETES,insulin
+1138,396,3,2078-10-25,female,40s,past,HYPERTENSION,beta blocker; calcium channel blocker; ACE inhibitor
+1139,396,3,2078-10-25,female,40s,past,CAD,statin; aspirin
+1140,396,4,2079-12-12,female,65,unknown,DIABETES,insulin
+1141,396,4,2079-12-12,female,65,unknown,HYPERTENSION,nitrate; beta blocker
+1142,396,4,2079-12-12,female,65,unknown,CAD,statin; aspirin
+1143,397,1,2076-06-19,male,45,current,DIABETES,sulfonylureas; metformin
+1144,397,2,2076-07-21,male,46,current,DIABETES,sulfonylureas
+1145,397,2,2076-07-21,male,46,current,HYPERTENSION,ACE inhibitor
+1146,397,2,2076-07-21,male,46,current,CAD,statin; aspirin
+1147,397,3,2076-09-21,male,46,current,DIABETES,sulfonylureas
+1148,397,3,2076-09-21,male,46,current,HYPERTENSION,beta blocker; ACE inhibitor
+1149,397,3,2076-09-21,male,46,current,CAD,statin; thienopyridine
+1150,397,4,2078-09-07,male,48,current,DIABETES,sulfonylureas; metformin
+1151,397,4,2078-09-07,male,48,current,HYPERTENSION,ACE inhibitor
+1152,397,4,2078-09-07,male,48,current,CAD,statin; aspirin
+1153,398,1,2105-12-15,male,NA,never,HYPERTENSION,beta blocker; ACE inhibitor
+1154,398,1,2105-12-15,male,NA,never,CAD,aspirin
+1155,398,2,2108-06-26,male,NA,never,DIABETES,metformin
+1156,398,2,2108-06-26,male,NA,never,HYPERTENSION,beta blocker; ACE inhibitor; diuretic
+1157,398,2,2108-06-26,male,NA,never,CAD,aspirin
+1158,398,3,2109-09-10,male,79,past,DIABETES,metformin
+1159,398,3,2109-09-10,male,79,past,HYPERTENSION,beta blocker; ACE inhibitor; diuretic
+1160,398,3,2109-09-10,male,79,past,CAD,statin; aspirin
+1161,398,4,2111-01-05,male,81,past,DIABETES,insulin
+1162,398,4,2111-01-05,male,81,past,HYPERTENSION,beta blocker
+1163,398,4,2111-01-05,male,81,past,CAD,statin; aspirin
+1164,399,1,2069-10-20,male,49,NA,CAD,statin; aspirin
+1165,399,1,2069-10-20,male,49,NA,DIABETES,sulfonylureas; metformin
+1166,399,2,2070-03-24,male,50,unknown,DIABETES,thiazolidinedione; metformin; insulin
+1167,399,2,2070-03-24,male,50,unknown,HYPERTENSION,beta blocker; ACE inhibitor
+1168,399,2,2070-03-24,male,50,unknown,CAD,statin; aspirin
+1169,399,3,2070-11-07,male,50,never,DIABETES,thiazolidinedione; metformin; insulin
+1170,399,3,2070-11-07,male,50,never,HYPERTENSION,beta blocker; ACE inhibitor
+1171,399,3,2070-11-07,male,50,never,CAD,statin
+1172,399,4,2071-11-23,male,51,unknown,DIABETES,thiazolidinedione; metformin; insulin
+1173,399,4,2071-11-23,male,51,unknown,HYPERTENSION,beta blocker; ACE inhibitor
+1174,399,4,2071-11-23,male,51,unknown,CAD,statin; aspirin
+1175,400,1,2062-06-10,female,59,never,HYPERTENSION,beta blocker; ACE inhibitor; diuretic
+1176,400,2,2062-07-21,female,59,unknown,DIABETES,metformin; insulin
+1177,400,2,2062-07-21,female,59,unknown,HYPERTENSION,beta blocker; calcium channel blocker; ACE inhibitor
+1178,400,2,2062-07-21,female,59,unknown,CAD,aspirin
+1179,400,3,2066-10-14,female,NA,unknown,HYPERTENSION,ARB; beta blocker; calcium channel blocker; diuretic
+1180,400,4,2067-03-13,female,NA,unknown,HYPERLIPIDEMIA,fibrate
+1181,400,4,2067-03-13,female,NA,unknown,DIABETES,sulfonylureas; metformin
+1182,400,4,2067-03-13,female,NA,unknown,HYPERTENSION,ARB; beta blocker; calcium channel blocker
+1183,400,4,2067-03-13,female,NA,unknown,CAD,statin; aspirin
+1184,400,5,2067-04-14,female,64,never,HYPERLIPIDEMIA,fibrate
+1185,400,5,2067-04-14,female,64,never,DIABETES,sulfonylureas; thiazolidinedione; metformin
+1186,400,5,2067-04-14,female,64,never,HYPERTENSION,beta blocker; calcium channel blocker
+1187,400,5,2067-04-14,female,64,never,CAD,statin; aspirin
